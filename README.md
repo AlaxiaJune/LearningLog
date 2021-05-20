@@ -52,3 +52,33 @@ https://www.w3schools.com/python/default.asp <br>
 ### Tableau training
 (waiting)
 
+
+### Learning Log
+
+**Curent Data Skill Set**
+<p align="center">
+    <img src='https://img.shields.io/static/v1?label=Python&message=0/10&color=orange%20?style=for-the-badge&logo=python'>
+    <img src='https://img.shields.io/static/v1?label=SQL&message=2/10&color=orange%20?style=for-the-badge&logo=MySQL'>
+    <img src='https://img.shields.io/static/v1?label=R&message=0/10&color=orange%20?style=for-the-badge&logo=R'>
+    <img src='https://img.shields.io/static/v1?label=GitHub&message=0/10&color=orange%20?style=for-the-badge&logo=GitHub'>
+    <img src='https://img.shields.io/static/v1?label=Google%20Sheets&message=2/10&color=orange%20?style=for-the-badge&logo=google%20sheets'>
+    <img src='https://img.shields.io/static/v1?label=Google%20Analytics&message=0/10&color=orange%20?style=for-the-badge&logo=google%20analytics'>
+    </p>
+    
+**05/17/2021**
+1. Completed Course 1: "Foundations: Data, Data, Everywhere," Coursera/Google
+2. Continue to https://www.w3schools.com/sql/sql_join_self.asp 
+
+**05/18/2021**
+1. Begin Course 2: "Ask Questions to Make Data Driven Decisions"
+
+**05/19/2021**
+1. Complete Course 2, Week 1
+2. Begin Course 2, Week 2
+3. Create GitHub, first repository "Hello World"
+4. https://www.tableau.com/learn/articles/business-intelligence-dashboards-examples
+
+**05/20/2021**
+1. Create GitHub Learning Log
+2. 
+6. 
