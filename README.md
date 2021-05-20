@@ -30,7 +30,7 @@ Wherein Alaxia logs things she is stuffing her brain with.
 
 ### Google Data Analytics Certificate Progress
 1. <s>Foundations: Data, Data, Everywhere - Weeks: 5/5</s> (Start 05/03/21; Complete 05/17/21)
-2. Ask Questions to Make Data-Driven Decisions - Weeks: 2/4 (Start 05/18/21)
+2. Ask Questions to Make Data-Driven Decisions - Weeks: 3/4 (Start 05/18/21)
 3. Prepare Data for Exploration - Weeks: 0/4
 4. Process Data from Dirty to Clean - Weeks: 0/4
 5. Analyze Data to Answer Questions - Weeks: 0/4
@@ -73,7 +73,7 @@ https://www.w3schools.com/python/default.asp <br>
 1. Begin Course 2: "Ask Questions to Make Data Driven Decisions"
 
 **05/19/2021**
-1. Complete Course 2, Week 1
+1. Completed Course 2, Week 1
 2. Begin Course 2, Week 2
 3. Create GitHub, first repository "Hello World"
 4. https://www.tableau.com/learn/articles/business-intelligence-dashboards-examples
@@ -81,4 +81,4 @@ https://www.w3schools.com/python/default.asp <br>
 **05/20/2021**
 1. Create GitHub Learning Log
 2. W3 SQL Tutorial: SELF JOIN through ANY/ALL
-3. 
+3. Completed Course 2, Week 2
