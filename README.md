@@ -80,5 +80,5 @@ https://www.w3schools.com/python/default.asp <br>
 
 **05/20/2021**
 1. Create GitHub Learning Log
-2. 
-6. 
+2. W3 SQL Tutorial: SELF JOIN through ANY/ALL
+3. 
