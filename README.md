@@ -83,3 +83,7 @@ https://www.w3schools.com/python/default.asp <br>
 2. W3 SQL Tutorial: SELF JOIN through ANY/ALL
 3. Completed Course 2, Week 2
 4. Begin Course 2, Week 3: Spreadsheet Basics
+
+**05/21/2021**
+1. Continue Course 2, Week 3
+2. Qwiklab on data dashboards
