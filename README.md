@@ -70,11 +70,11 @@ https://www.w3schools.com/python/default.asp <br>
 2. Continue to https://www.w3schools.com/sql/sql_join_self.asp 
 
 **05/18/2021**
-1. Begin Course 2: "Ask Questions to Make Data Driven Decisions"
+1. Begin Course 2: "Ask Questions to Make Data Driven Decisions."  Week 1: Asking Effective Questions
 
 **05/19/2021**
 1. Completed Course 2, Week 1
-2. Begin Course 2, Week 2
+2. Begin Course 2, Week 2: Making Data-Driven Decisions
 3. Create GitHub, first repository "Hello World"
 4. https://www.tableau.com/learn/articles/business-intelligence-dashboards-examples
 
@@ -82,3 +82,4 @@ https://www.w3schools.com/python/default.asp <br>
 1. Create GitHub Learning Log
 2. W3 SQL Tutorial: SELF JOIN through ANY/ALL
 3. Completed Course 2, Week 2
+4. Begin Course 2, Week 3: Spreadsheet Basics
