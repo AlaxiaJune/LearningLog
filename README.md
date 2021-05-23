@@ -87,4 +87,7 @@ https://www.w3schools.com/python/default.asp <br>
 **05/21/2021**
 1. Continue Course 2, Week 3
 2. Qwiklab on data dashboards
-3. Scope of Work project
+3. Scope of Work project review
+
+**05/22/2021**
+1. Scope of Work project completed
