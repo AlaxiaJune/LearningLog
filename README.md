@@ -95,3 +95,4 @@ https://www.w3schools.com/python/default.asp <br>
 **05/23/2021**
 1. SQL study, SELECT INTO through Operators, etc. First section complete.
 2. Begin W3 SQL Database section.
+3. Completed W3 SQL exercises
