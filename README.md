@@ -30,8 +30,8 @@ Wherein Alaxia logs things she is stuffing her brain with.
 
 ### Google Data Analytics Certificate Progress
 1. <s>Foundations: Data, Data, Everywhere - Weeks: 5/5</s> (Start 05/03/21; Complete 05/17/21)
-2. Ask Questions to Make Data-Driven Decisions - Weeks: 4/4 (Start 05/18/21)
-3. Prepare Data for Exploration - Weeks: 0/4
+2. Ask Questions to Make Data-Driven Decisions - Weeks: 4/4 (Start 05/18/21; Complete 05/24/21)
+3. Prepare Data for Exploration - Weeks: 0/4 (Start 05/24/21)
 4. Process Data from Dirty to Clean - Weeks: 0/4
 5. Analyze Data to Answer Questions - Weeks: 0/4
 6. Share Data Through the Art of Visualization - Weeks: 0/4
@@ -101,4 +101,5 @@ https://www.w3schools.com/python/default.asp <br>
 1. Completed Course 2, Week 3
 2. Begin Course 2, Week 4
 3. https://www.inc.com/magazine/201809/jason-fried/illusion-agreement-team-project.html
-4. 
+4. Final exam, "Ask Questions to Make Data Driven Decisions."
+5. Completed Course 2.
