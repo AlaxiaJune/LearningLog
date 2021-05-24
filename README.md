@@ -8,7 +8,7 @@ Wherein Alaxia logs things she is stuffing her brain with.
     <img src='https://img.shields.io/static/v1?label=SQL&message=4/10&color=orange%20?style=for-the-badge&logo=MySQL'>
     <img src='https://img.shields.io/static/v1?label=R&message=0/10&color=orange%20?style=for-the-badge&logo=R'>
     <img src='https://img.shields.io/static/v1?label=GitHub&message=0/10&color=orange%20?style=for-the-badge&logo=GitHub'>
-    <img src='https://img.shields.io/static/v1?label=Google%20Sheets&message=2/10&color=orange%20?style=for-the-badge&logo=google%20sheets'>
+    <img src='https://img.shields.io/static/v1?label=Google%20Sheets&message=4/10&color=orange%20?style=for-the-badge&logo=google%20sheets'>
     <img src='https://img.shields.io/static/v1?label=Google%20Analytics&message=0/10&color=orange%20?style=for-the-badge&logo=google%20analytics'>
     </p>
 <p align="center">
@@ -61,7 +61,7 @@ https://www.w3schools.com/python/default.asp <br>
     <img src='https://img.shields.io/static/v1?label=SQL&message=4/10&color=orange%20?style=for-the-badge&logo=MySQL'>
     <img src='https://img.shields.io/static/v1?label=R&message=0/10&color=orange%20?style=for-the-badge&logo=R'>
     <img src='https://img.shields.io/static/v1?label=GitHub&message=0/10&color=orange%20?style=for-the-badge&logo=GitHub'>
-    <img src='https://img.shields.io/static/v1?label=Google%20Sheets&message=2/10&color=orange%20?style=for-the-badge&logo=google%20sheets'>
+    <img src='https://img.shields.io/static/v1?label=Google%20Sheets&message=4/10&color=orange%20?style=for-the-badge&logo=google%20sheets'>
     <img src='https://img.shields.io/static/v1?label=Google%20Analytics&message=0/10&color=orange%20?style=for-the-badge&logo=google%20analytics'>
     </p>
     
