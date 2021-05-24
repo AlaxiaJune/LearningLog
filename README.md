@@ -5,7 +5,7 @@ Wherein Alaxia logs things she is stuffing her brain with.
 <p align="center">
     <img src="https://img.shields.io/badge/Subject-Learning%20Log-blue"></br>
     <img src='https://img.shields.io/static/v1?label=Python&message=0/10&color=orange%20?style=for-the-badge&logo=python'>
-    <img src='https://img.shields.io/static/v1?label=SQL&message=2/10&color=orange%20?style=for-the-badge&logo=MySQL'>
+    <img src='https://img.shields.io/static/v1?label=SQL&message=4/10&color=orange%20?style=for-the-badge&logo=MySQL'>
     <img src='https://img.shields.io/static/v1?label=R&message=0/10&color=orange%20?style=for-the-badge&logo=R'>
     <img src='https://img.shields.io/static/v1?label=GitHub&message=0/10&color=orange%20?style=for-the-badge&logo=GitHub'>
     <img src='https://img.shields.io/static/v1?label=Google%20Sheets&message=2/10&color=orange%20?style=for-the-badge&logo=google%20sheets'>
@@ -58,7 +58,7 @@ https://www.w3schools.com/python/default.asp <br>
 **Curent Data Skill Set**
 <p align="center">
     <img src='https://img.shields.io/static/v1?label=Python&message=0/10&color=orange%20?style=for-the-badge&logo=python'>
-    <img src='https://img.shields.io/static/v1?label=SQL&message=2/10&color=orange%20?style=for-the-badge&logo=MySQL'>
+    <img src='https://img.shields.io/static/v1?label=SQL&message=4/10&color=orange%20?style=for-the-badge&logo=MySQL'>
     <img src='https://img.shields.io/static/v1?label=R&message=0/10&color=orange%20?style=for-the-badge&logo=R'>
     <img src='https://img.shields.io/static/v1?label=GitHub&message=0/10&color=orange%20?style=for-the-badge&logo=GitHub'>
     <img src='https://img.shields.io/static/v1?label=Google%20Sheets&message=2/10&color=orange%20?style=for-the-badge&logo=google%20sheets'>
@@ -100,3 +100,5 @@ https://www.w3schools.com/python/default.asp <br>
 **05/24/2021**
 1. Completed Course 2, Week 3
 2. Begin Course 2, Week 4
+3. https://www.inc.com/magazine/201809/jason-fried/illusion-agreement-team-project.html
+4. 
