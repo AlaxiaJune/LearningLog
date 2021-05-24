@@ -91,3 +91,6 @@ https://www.w3schools.com/python/default.asp <br>
 
 **05/22/2021**
 1. Scope of Work project completed
+
+**05/23/2021**
+1. SQL study, SELECT INTO through CASE
