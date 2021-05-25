@@ -106,3 +106,6 @@ https://www.w3schools.com/python/default.asp <br>
 6. Begin Course 3: Prepare Data for Exploration
 
 **05/25/2021**
+1. Continue Course 3, Week 1
+2. https://www.1keydata.com/datawarehousing/conceptual-data-model.html
+3. https://www.techopedia.com/definition/5547/primary-key
