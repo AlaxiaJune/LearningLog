@@ -103,3 +103,4 @@ https://www.w3schools.com/python/default.asp <br>
 3. https://www.inc.com/magazine/201809/jason-fried/illusion-agreement-team-project.html
 4. Final exam, "Ask Questions to Make Data Driven Decisions."
 5. Completed Course 2.
+6. Begin Course 3: Prepare Data for Exploration
