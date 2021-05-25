@@ -104,3 +104,5 @@ https://www.w3schools.com/python/default.asp <br>
 4. Final exam, "Ask Questions to Make Data Driven Decisions."
 5. Completed Course 2.
 6. Begin Course 3: Prepare Data for Exploration
+
+**05/25/2021**
