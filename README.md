@@ -113,3 +113,4 @@ https://www.w3schools.com/python/default.asp <br>
 5. https://www.1keydata.com/datawarehousing/physical-data-model.html
 6. https://www.1keydata.com/datawarehousing/data-modeling-levels.html
 7. Research and create glossary of terms
+8. Fill info gaps: data normalization/denormalization 
