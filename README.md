@@ -114,3 +114,6 @@ https://www.w3schools.com/python/default.asp <br>
 6. https://www.1keydata.com/datawarehousing/data-modeling-levels.html
 7. Research and create glossary of terms
 8. Fill info gaps: data normalization/denormalization 
+
+**05/26/2021**
+1. https://www.techopedia.com/7/32101/storage/what-is-the-difference-between-a-composite-key-primary-key-and-foreign-key
