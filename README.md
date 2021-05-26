@@ -112,4 +112,4 @@ https://www.w3schools.com/python/default.asp <br>
 4. https://www.1keydata.com/datawarehousing/logical-data-model.html
 5. https://www.1keydata.com/datawarehousing/physical-data-model.html
 6. https://www.1keydata.com/datawarehousing/data-modeling-levels.html
-7. 
+7. Research and create glossary of terms
