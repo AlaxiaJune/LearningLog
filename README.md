@@ -117,3 +117,4 @@ https://www.w3schools.com/python/default.asp <br>
 
 **05/26/2021**
 1. https://www.techopedia.com/7/32101/storage/what-is-the-difference-between-a-composite-key-primary-key-and-foreign-key
+2. https://www.bmc.com/blogs/data-normalization/
