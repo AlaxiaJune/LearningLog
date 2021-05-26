@@ -109,3 +109,7 @@ https://www.w3schools.com/python/default.asp <br>
 1. Continue Course 3, Week 1
 2. https://www.1keydata.com/datawarehousing/conceptual-data-model.html
 3. https://www.techopedia.com/definition/5547/primary-key
+4. https://www.1keydata.com/datawarehousing/logical-data-model.html
+5. https://www.1keydata.com/datawarehousing/physical-data-model.html
+6. https://www.1keydata.com/datawarehousing/data-modeling-levels.html
+7. 
