@@ -40,7 +40,7 @@ Wherein Alaxia logs things she is stuffing her brain with.
 
 ### SQL training
 https://www.w3schools.com/sql/default.asp <br>
-Last Lesson: ANY/ALL
+Last Lesson: CREATE TABLE
 
 ### R training
 (waiting)
