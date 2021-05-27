@@ -130,3 +130,4 @@ https://www.w3schools.com/python/default.asp <br>
 1. Begin Course 3, Week 2
 2. Qwiklab: BigQuery. Loading and querying public datasets, loading and querying personal datasets
 3. Study: Unbiased and Objective Data
+4. Study: Data credibility
