@@ -132,3 +132,5 @@ https://www.w3schools.com/python/default.asp <br>
 3. Study: Unbiased and Objective Data
 4. Study: Data credibility
 5. Study: Data ethics and privacy
+6. Exlore open data with Kaggle
+7. Complete Course 3, Week 2
