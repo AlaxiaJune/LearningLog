@@ -29,14 +29,14 @@ Wherein Alaxia logs things she is stuffing her brain with.
 
 
 ### Google Data Analytics Certificate Progress
-1. <s>Foundations: Data, Data, Everywhere - Weeks: 5/5</s> (Start 05/03/21; Complete 05/17/21)
-2. <s>Ask Questions to Make Data-Driven Decisions - Weeks: 4/4</s> (Start 05/18/21; Complete 05/24/21)
-3. Prepare Data for Exploration - Weeks: 0/4 (Start 05/24/21)
-4. Process Data from Dirty to Clean - Weeks: 0/4
-5. Analyze Data to Answer Questions - Weeks: 0/4
-6. Share Data Through the Art of Visualization - Weeks: 0/4
-7. Data Analysis With R Programming - Weeks: 0/4
-8. Google Data Analytics Capstone: Complete a Case Study - Weeks: 0/4
+1. <s>Foundations: Data, Data, Everywhere - Weeks Complete: 5/5</s> (Start 05/03/21; Complete 05/17/21)
+2. <s>Ask Questions to Make Data-Driven Decisions - Weeks Complete: 4/4</s> (Start 05/18/21; Complete 05/24/21)
+3. Prepare Data for Exploration - Weeks Complete: 1/4 (Start 05/24/21)
+4. Process Data from Dirty to Clean - Weeks Complete: 0/4
+5. Analyze Data to Answer Questions - Weeks Complete: 0/4
+6. Share Data Through the Art of Visualization - Weeks Complete: 0/4
+7. Data Analysis With R Programming - Weeks Complete: 0/4
+8. Google Data Analytics Capstone: Complete a Case Study - Weeks Complete: 0/4
 
 ### SQL training
 https://www.w3schools.com/sql/default.asp <br>
@@ -118,3 +118,5 @@ https://www.w3schools.com/python/default.asp <br>
 **05/26/2021**
 1. https://www.techopedia.com/7/32101/storage/what-is-the-difference-between-a-composite-key-primary-key-and-foreign-key
 2. https://www.bmc.com/blogs/data-normalization/
+3. Create Kaggle account: https://www.kaggle.com/alaxiajune
+4. Complete Course 3, Week 1
