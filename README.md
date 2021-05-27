@@ -7,8 +7,8 @@ Wherein Alaxia logs things she is stuffing her brain with.
     <img src='https://img.shields.io/static/v1?label=Python&message=0/10&color=orange%20?style=for-the-badge&logo=python'>
     <img src='https://img.shields.io/static/v1?label=SQL&message=4/10&color=orange%20?style=for-the-badge&logo=MySQL'>
     <img src='https://img.shields.io/static/v1?label=R&message=0/10&color=orange%20?style=for-the-badge&logo=R'>
-    <img src='https://img.shields.io/static/v1?label=GitHub&message=0/10&color=orange%20?style=for-the-badge&logo=GitHub'>
-    <img src='https://img.shields.io/static/v1?label=Google%20Sheets&message=4/10&color=orange%20?style=for-the-badge&logo=google%20sheets'>
+    <img src='https://img.shields.io/static/v1?label=GitHub&message=1/10&color=orange%20?style=for-the-badge&logo=GitHub'>
+    <img src='https://img.shields.io/static/v1?label=Google%20Sheets&message=5/10&color=orange%20?style=for-the-badge&logo=google%20sheets'>
     <img src='https://img.shields.io/static/v1?label=Google%20Analytics&message=0/10&color=orange%20?style=for-the-badge&logo=google%20analytics'>
     </p>
 <p align="center">
@@ -60,8 +60,8 @@ https://www.w3schools.com/python/default.asp <br>
     <img src='https://img.shields.io/static/v1?label=Python&message=0/10&color=orange%20?style=for-the-badge&logo=python'>
     <img src='https://img.shields.io/static/v1?label=SQL&message=4/10&color=orange%20?style=for-the-badge&logo=MySQL'>
     <img src='https://img.shields.io/static/v1?label=R&message=0/10&color=orange%20?style=for-the-badge&logo=R'>
-    <img src='https://img.shields.io/static/v1?label=GitHub&message=0/10&color=orange%20?style=for-the-badge&logo=GitHub'>
-    <img src='https://img.shields.io/static/v1?label=Google%20Sheets&message=4/10&color=orange%20?style=for-the-badge&logo=google%20sheets'>
+    <img src='https://img.shields.io/static/v1?label=GitHub&message=1/10&color=orange%20?style=for-the-badge&logo=GitHub'>
+    <img src='https://img.shields.io/static/v1?label=Google%20Sheets&message=5/10&color=orange%20?style=for-the-badge&logo=google%20sheets'>
     <img src='https://img.shields.io/static/v1?label=Google%20Analytics&message=0/10&color=orange%20?style=for-the-badge&logo=google%20analytics'>
     </p>
     
@@ -125,3 +125,6 @@ https://www.w3schools.com/python/default.asp <br>
 7. https://dataedo.com/blog/basic-data-modeling-techniques
 8. https://libguides.mit.edu/c.php?g=175963&p=1158594
 9. https://www.maa.org/press/periodicals/convergence/origins-of-boolean-algebra-in-the-logic-of-classes-george-boole-john-venn-and-c-s-peirce
+
+**05/27/2021**
+1. Begin Course 3, Week 2
