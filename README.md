@@ -131,3 +131,4 @@ https://www.w3schools.com/python/default.asp <br>
 2. Qwiklab: BigQuery. Loading and querying public datasets, loading and querying personal datasets
 3. Study: Unbiased and Objective Data
 4. Study: Data credibility
+5. Study: Data ethics and privacy
