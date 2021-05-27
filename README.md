@@ -123,3 +123,5 @@ https://www.w3schools.com/python/default.asp <br>
 5. https://en.wikipedia.org/wiki/Denormalization
 6. https://www.geeksforgeeks.org/denormalization-in-databases/
 7. https://dataedo.com/blog/basic-data-modeling-techniques
+8. https://libguides.mit.edu/c.php?g=175963&p=1158594
+9. https://www.maa.org/press/periodicals/convergence/origins-of-boolean-algebra-in-the-logic-of-classes-george-boole-john-venn-and-c-s-peirce
