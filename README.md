@@ -134,3 +134,4 @@ https://www.w3schools.com/python/default.asp <br>
 5. Study: Data ethics and privacy
 6. Exlore open data with Kaggle
 7. Complete Course 3, Week 2
+8. 8. Begin Course 3, Week 3
