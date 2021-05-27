@@ -122,3 +122,4 @@ https://www.w3schools.com/python/default.asp <br>
 4. Complete Course 3, Week 1
 5. https://en.wikipedia.org/wiki/Denormalization
 6. https://www.geeksforgeeks.org/denormalization-in-databases/
+7. https://dataedo.com/blog/basic-data-modeling-techniques
