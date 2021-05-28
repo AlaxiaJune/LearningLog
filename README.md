@@ -140,3 +140,4 @@ https://www.w3schools.com/python/default.asp <br>
 **05/28/2021**
 1. https://www.w3schools.com/sql/default.asp Create table - Alter table
 2. Qwiklab - SQL
+3. Complete Course 3, Week 3
