@@ -26,6 +26,7 @@ Wherein Alaxia logs things she is stuffing her brain with.
 3. R training
 4. Python training
 5. Tableau training
+6. Familiarize Regex
 
 
 ### Google Data Analytics Certificate Progress
@@ -135,3 +136,7 @@ https://www.w3schools.com/python/default.asp <br>
 6. Exlore open data with Kaggle
 7. Complete Course 3, Week 2
 8. 8. Begin Course 3, Week 3
+
+**05/28/2021**
+1. https://www.w3schools.com/sql/default.asp Create table - Alter table
+2. 
