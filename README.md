@@ -145,4 +145,7 @@ https://www.w3schools.com/python/default.asp <br>
 5. Complete Course 3, Week 4
 6. Begin Course 3, Week 5
 7. Complete Course 3, Week 5
-8. Complete Course 3
+8. Course 3: Prepare Data for Eploration
+
+**05/29/2021**
+1. Begin Course 4: Process Data from Dirty to Clean
