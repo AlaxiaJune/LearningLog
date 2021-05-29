@@ -143,3 +143,4 @@ https://www.w3schools.com/python/default.asp <br>
 3. Complete Course 3, Week 3
 4. Begin Course 3, Week 4
 5. Complete Course 3, Week 4
+6. Begin Course 3, Week 5
