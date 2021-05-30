@@ -32,8 +32,8 @@ Wherein Alaxia logs things she is stuffing her brain with.
 ### Google Data Analytics Certificate Progress
 1. <s>Foundations: Data, Data, Everywhere - Weeks Complete: 5/5</s> (Start 05/03/21; Complete 05/17/21)
 2. <s>Ask Questions to Make Data-Driven Decisions - Weeks Complete: 4/4</s> (Start 05/18/21; Complete 05/24/21)
-3. Prepare Data for Exploration - Weeks Complete: 4/5 (Start 05/24/21)
-4. Process Data from Dirty to Clean - Weeks Complete: 0/4
+3. <s>Prepare Data for Exploration - Weeks Complete: 5/5</s> (Start 05/24/21; Complete 05/28/21)
+4. Process Data from Dirty to Clean - Weeks Complete: 0/5 (Start 05/29/21)
 5. Analyze Data to Answer Questions - Weeks Complete: 0/4
 6. Share Data Through the Art of Visualization - Weeks Complete: 0/4
 7. Data Analysis With R Programming - Weeks Complete: 0/4
@@ -41,7 +41,7 @@ Wherein Alaxia logs things she is stuffing her brain with.
 
 ### SQL training
 https://www.w3schools.com/sql/default.asp <br>
-Last Lesson: CREATE TABLE
+Last Lesson: ALTER TABLE
 
 ### R training
 (waiting)
@@ -51,6 +51,9 @@ https://www.w3schools.com/python/default.asp <br>
 (waiting)
 
 ### Tableau training
+(waiting)
+
+### Regex Study
 (waiting)
 
 
@@ -149,3 +152,4 @@ https://www.w3schools.com/python/default.asp <br>
 
 **05/29/2021**
 1. Begin Course 4: Process Data from Dirty to Clean
+2. Data integry and business objectives
