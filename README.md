@@ -153,4 +153,7 @@ https://www.w3schools.com/python/default.asp <br>
 **05/29/2021**
 1. Begin Course 4: Process Data from Dirty to Clean
 2. Data integry and business objectives
-3. Complete Course 4, Week 1
+
+**05/30/2021**
+1. Complete Course 4, Week 1
+2. Create glossary flashcards https://quizlet.com/_6gw633?x=1jqt&i=21kf70
