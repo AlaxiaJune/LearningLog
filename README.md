@@ -163,3 +163,4 @@ https://www.w3schools.com/python/default.asp <br>
 2. https://sloanreview.mit.edu/article/seizing-opportunity-in-data-quality/
 3. https://www.demandgen.com/dirty-data-what-is-it-costing-you/
 4. https://www.dqglobal.com/2011/05/04/obsolete-or-dirty-data/
+5. https://searchhealthit.techtarget.com/feature/Hospitals-battle-duplicate-medical-records-with-technology
