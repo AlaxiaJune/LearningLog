@@ -160,3 +160,4 @@ https://www.w3schools.com/python/default.asp <br>
 
 **05/31/2021**
 1. Begin Course 4, Week 2
+2. https://sloanreview.mit.edu/article/seizing-opportunity-in-data-quality/
