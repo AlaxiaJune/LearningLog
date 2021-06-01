@@ -164,3 +164,6 @@ https://www.w3schools.com/python/default.asp <br>
 3. https://www.demandgen.com/dirty-data-what-is-it-costing-you/
 4. https://www.dqglobal.com/2011/05/04/obsolete-or-dirty-data/
 5. https://searchhealthit.techtarget.com/feature/Hospitals-battle-duplicate-medical-records-with-technology
+
+**06/01/2021**
+1. Continue Course 4, Week 2
