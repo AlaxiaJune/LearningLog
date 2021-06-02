@@ -41,7 +41,9 @@ Wherein Alaxia logs things she is stuffing her brain with.
 
 ### SQL training
 https://www.w3schools.com/sql/default.asp <br>
-Last Lesson: CREATE INDEX
+Last Lesson: CREATE INDEX <br>
+http://sqlfiddle.com/<br>
+https://sqlzoo.net/wiki/SQL_Tutorial<br>
 
 ### R training
 (waiting)
