@@ -182,4 +182,4 @@ https://www.w3schools.com/python/default.asp <br>
 7. https://learnsql.com/blog/what-sql-dialect-to-learn/
 8. https://www.softwaretestinghelp.com/sql-vs-mysql-vs-sql-server/
 9. https://www.datacamp.com/community/blog/sql-differences
-10. 
+10. https://www.sqltutorial.org/what-is-sql/
