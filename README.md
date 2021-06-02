@@ -33,7 +33,7 @@ Wherein Alaxia logs things she is stuffing her brain with.
 1. <s>Foundations: Data, Data, Everywhere - Weeks Complete: 5/5</s> (Start 05/03/21; Complete 05/17/21)
 2. <s>Ask Questions to Make Data-Driven Decisions - Weeks Complete: 4/4</s> (Start 05/18/21; Complete 05/24/21)
 3. <s>Prepare Data for Exploration - Weeks Complete: 5/5</s> (Start 05/24/21; Complete 05/28/21)
-4. Process Data from Dirty to Clean - Weeks Complete: 1/5 (Start 05/29/21)
+4. Process Data from Dirty to Clean - Weeks Complete: 2/5 (Start 05/29/21)
 5. Analyze Data to Answer Questions - Weeks Complete: 0/4
 6. Share Data Through the Art of Visualization - Weeks Complete: 0/4
 7. Data Analysis With R Programming - Weeks Complete: 0/4
@@ -177,3 +177,4 @@ https://www.w3schools.com/python/default.asp <br>
 2. https://towardsdatascience.com/automating-scientific-data-analysis-part-1-c9979cd0817e
 3. https://news.mit.edu/2016/automating-big-data-analysis-1021
 4. https://technologyadvice.com/blog/information-technology/top-10-workflow-automation-software/
+5. Complete Course 4, Week 2
