@@ -181,3 +181,5 @@ https://www.w3schools.com/python/default.asp <br>
 6. Begin Course 4, Week 3: Using SQL to clean data
 7. https://learnsql.com/blog/what-sql-dialect-to-learn/
 8. https://www.softwaretestinghelp.com/sql-vs-mysql-vs-sql-server/
+9. https://www.datacamp.com/community/blog/sql-differences
+10. 
