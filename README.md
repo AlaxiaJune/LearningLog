@@ -167,3 +167,4 @@ https://www.w3schools.com/python/default.asp <br>
 
 **06/01/2021**
 1. Continue Course 4, Week 2
+2. Learning data cleaning features in spreadsheets
