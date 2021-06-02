@@ -176,3 +176,4 @@ https://www.w3schools.com/python/default.asp <br>
 1. Continue Course 4, Week 2
 2. https://towardsdatascience.com/automating-scientific-data-analysis-part-1-c9979cd0817e
 3. https://news.mit.edu/2016/automating-big-data-analysis-1021
+4. https://technologyadvice.com/blog/information-technology/top-10-workflow-automation-software/
