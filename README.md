@@ -41,7 +41,7 @@ Wherein Alaxia logs things she is stuffing her brain with.
 
 ### SQL training
 https://www.w3schools.com/sql/default.asp <br>
-Last Lesson: ALTER TABLE
+Last Lesson: CREATE INDEX
 
 ### R training
 (waiting)
@@ -168,3 +168,4 @@ https://www.w3schools.com/python/default.asp <br>
 **06/01/2021**
 1. Continue Course 4, Week 2
 2. Learning data cleaning features in spreadsheets
+3. W3 schools SQL: Foreign Key - Create Index
