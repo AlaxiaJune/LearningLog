@@ -178,3 +178,4 @@ https://www.w3schools.com/python/default.asp <br>
 3. https://news.mit.edu/2016/automating-big-data-analysis-1021
 4. https://technologyadvice.com/blog/information-technology/top-10-workflow-automation-software/
 5. Complete Course 4, Week 2
+6. Begin Course 4, Week 3: Using SQL to clean data
