@@ -188,3 +188,5 @@ https://www.w3schools.com/python/default.asp <br>
 **06/03/2021**
 1. Advanced data-cleaning functions
 2. Complete Course 4, Week 3
+3. Self-directed SQL practice with BigQuery
+4. Q&A with mentor
