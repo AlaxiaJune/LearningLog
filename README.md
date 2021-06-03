@@ -184,3 +184,6 @@ https://www.w3schools.com/python/default.asp <br>
 9. https://www.datacamp.com/community/blog/sql-differences
 10. https://www.sqltutorial.org/what-is-sql/
 11. Qwiklab: Cleaning data using SQL
+
+**06/03/2021**
+1. Advanced data-cleaning functions
