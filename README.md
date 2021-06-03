@@ -5,7 +5,7 @@ Wherein Alaxia logs things she is stuffing her brain with.
 <p align="center">
     <img src="https://img.shields.io/badge/Subject-Learning%20Log-blue"></br>
     <img src='https://img.shields.io/static/v1?label=Python&message=0/10&color=orange%20?style=for-the-badge&logo=python'>
-    <img src='https://img.shields.io/static/v1?label=SQL&message=4/10&color=orange%20?style=for-the-badge&logo=MySQL'>
+    <img src='https://img.shields.io/static/v1?label=SQL&message=5/10&color=orange%20?style=for-the-badge&logo=MySQL'>
     <img src='https://img.shields.io/static/v1?label=R&message=0/10&color=orange%20?style=for-the-badge&logo=R'>
     <img src='https://img.shields.io/static/v1?label=GitHub&message=1/10&color=orange%20?style=for-the-badge&logo=GitHub'>
     <img src='https://img.shields.io/static/v1?label=Google%20Sheets&message=5/10&color=orange%20?style=for-the-badge&logo=google%20sheets'>
@@ -33,7 +33,7 @@ Wherein Alaxia logs things she is stuffing her brain with.
 1. <s>Foundations: Data, Data, Everywhere - Weeks Complete: 5/5</s> (Start 05/03/21; Complete 05/17/21)
 2. <s>Ask Questions to Make Data-Driven Decisions - Weeks Complete: 4/4</s> (Start 05/18/21; Complete 05/24/21)
 3. <s>Prepare Data for Exploration - Weeks Complete: 5/5</s> (Start 05/24/21; Complete 05/28/21)
-4. Process Data from Dirty to Clean - Weeks Complete: 2/5 (Start 05/29/21)
+4. Process Data from Dirty to Clean - Weeks Complete: 3/5 (Start 05/29/21)
 5. Analyze Data to Answer Questions - Weeks Complete: 0/4
 6. Share Data Through the Art of Visualization - Weeks Complete: 0/4
 7. Data Analysis With R Programming - Weeks Complete: 0/4
@@ -64,7 +64,7 @@ https://www.w3schools.com/python/default.asp <br>
 **Curent Data Skill Set**
 <p align="center">
     <img src='https://img.shields.io/static/v1?label=Python&message=0/10&color=orange%20?style=for-the-badge&logo=python'>
-    <img src='https://img.shields.io/static/v1?label=SQL&message=4/10&color=orange%20?style=for-the-badge&logo=MySQL'>
+    <img src='https://img.shields.io/static/v1?label=SQL&message=5/10&color=orange%20?style=for-the-badge&logo=MySQL'>
     <img src='https://img.shields.io/static/v1?label=R&message=0/10&color=orange%20?style=for-the-badge&logo=R'>
     <img src='https://img.shields.io/static/v1?label=GitHub&message=1/10&color=orange%20?style=for-the-badge&logo=GitHub'>
     <img src='https://img.shields.io/static/v1?label=Google%20Sheets&message=5/10&color=orange%20?style=for-the-badge&logo=google%20sheets'>
@@ -187,3 +187,4 @@ https://www.w3schools.com/python/default.asp <br>
 
 **06/03/2021**
 1. Advanced data-cleaning functions
+2. Complete Course 4, Week 3
