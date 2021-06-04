@@ -190,4 +190,8 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 4. Q&A with mentor
 5. Completed https://my-learning.w3schools.com/tutorial/?tut=sql Quiz: 100%
 6. Begin https://my-learning.w3schools.com/tutorial/?tut=python 
-7. Complete Course 4, Week 4
+7. Complete Course 4, Week 4<br>
+
+**06/04/2021**
+1. Begin Course 4, Week 5
+    
