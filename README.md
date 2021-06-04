@@ -40,7 +40,7 @@ Wherein Alaxia logs things she is stuffing her brain with.
 8. Google Data Analytics Capstone: Complete a Case Study - Weeks Complete: 0/4
 
 ### SQL training
-https://www.w3schools.com/sql/default.asp - <b>Complete 06/03/21<b> <br>
+https://www.w3schools.com/sql/default.asp - Complete 06/03/21 <br>
 http://sqlfiddle.com/<br>
 https://sqlzoo.net/wiki/SQL_Tutorial<br>
 
