@@ -194,4 +194,5 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 
 **06/04/2021**
 1. Begin Course 4, Week 5
+2. Begin learning Latex (Thanks, Overleaf!)
     
