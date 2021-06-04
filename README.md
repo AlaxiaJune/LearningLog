@@ -33,7 +33,7 @@ Wherein Alaxia logs things she is stuffing her brain with.
 1. <s>Foundations: Data, Data, Everywhere - Weeks Complete: 5/5</s> (Start 05/03/21; Complete 05/17/21)
 2. <s>Ask Questions to Make Data-Driven Decisions - Weeks Complete: 4/4</s> (Start 05/18/21; Complete 05/24/21)
 3. <s>Prepare Data for Exploration - Weeks Complete: 5/5</s> (Start 05/24/21; Complete 05/28/21)
-4. Process Data from Dirty to Clean - Weeks Complete: 3/5 (Start 05/29/21)
+4. Process Data from Dirty to Clean - Weeks Complete: 4/5 (Start 05/29/21)
 5. Analyze Data to Answer Questions - Weeks Complete: 0/4
 6. Share Data Through the Art of Visualization - Weeks Complete: 0/4
 7. Data Analysis With R Programming - Weeks Complete: 0/4
@@ -188,5 +188,6 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 2. Complete Course 4, Week 3
 3. Self-directed SQL practice with BigQuery
 4. Q&A with mentor
-5. Completed https://my-learning.w3schools.com/tutorial/?tut=sql  Quiz - 100%
+5. Completed https://my-learning.w3schools.com/tutorial/?tut=sql Quiz: 100%
 6. Begin https://my-learning.w3schools.com/tutorial/?tut=python 
+7. Complete Course 4, Week 4
