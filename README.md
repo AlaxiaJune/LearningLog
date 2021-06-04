@@ -40,8 +40,7 @@ Wherein Alaxia logs things she is stuffing her brain with.
 8. Google Data Analytics Capstone: Complete a Case Study - Weeks Complete: 0/4
 
 ### SQL training
-https://www.w3schools.com/sql/default.asp <br>
-Last Lesson: CREATE INDEX <br>
+https://www.w3schools.com/sql/default.asp - <b>Complete 06/03/21<b> <br>
 http://sqlfiddle.com/<br>
 https://sqlzoo.net/wiki/SQL_Tutorial<br>
 
@@ -190,3 +189,4 @@ https://www.w3schools.com/python/default.asp <br>
 2. Complete Course 4, Week 3
 3. Self-directed SQL practice with BigQuery
 4. Q&A with mentor
+5. Completed https://my-learning.w3schools.com/tutorial/?tut=sql  Quiz - 100%
