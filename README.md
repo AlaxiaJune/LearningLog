@@ -48,8 +48,7 @@ https://sqlzoo.net/wiki/SQL_Tutorial<br>
 (waiting)
 
 ### Python training
-https://www.w3schools.com/python/default.asp <br>
-(waiting)
+https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 
 ### Tableau training
 (waiting)
@@ -190,3 +189,4 @@ https://www.w3schools.com/python/default.asp <br>
 3. Self-directed SQL practice with BigQuery
 4. Q&A with mentor
 5. Completed https://my-learning.w3schools.com/tutorial/?tut=sql  Quiz - 100%
+6. Begin https://my-learning.w3schools.com/tutorial/?tut=python 
