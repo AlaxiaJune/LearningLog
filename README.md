@@ -196,3 +196,6 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 1. Begin Course 4, Week 5
 2. Begin learning Latex (Thanks, Overleaf!)
     
+**06/05/2021**
+1. Continue Course 4, Week 5
+2. https://freecodecamp.org - HTML refresher
