@@ -202,3 +202,4 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 3. Finish FreeCodeCamp HTML. Woot.
 4. Begin FreeCodeCamp Basic CSS.
 5. Finish FreeCodeCamp Basic CSS.
+6. Begin FreeCodeCamp Applied Visual Design.
