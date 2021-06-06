@@ -200,4 +200,5 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 1. Continue Course 4, Week 5
 2. https://freecodecamp.org - HTML refresher
 3. Finish FreeCodeCamp HTML. Woot.
-4. Begin FreeCodeCamp CSS
+4. Begin FreeCodeCamp Basic CSS.
+5. Finish FreeCodeCamp Basic CSS.
