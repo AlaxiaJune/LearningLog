@@ -207,3 +207,4 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 **06/06/2021**
 1. Continue FreeCodeCamp Applied Visual Design.
 2. Complete FreeCodeCamp Applied Visual Design.
+3. Begin FreeCodeCamp Applied Accessibility.
