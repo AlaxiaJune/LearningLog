@@ -209,3 +209,6 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 2. Complete FreeCodeCamp Applied Visual Design.
 3. Begin FreeCodeCamp Applied Accessibility.
 4. Complete Course 4: Process Data from Dirty to Clean.
+
+**06/07/2021**
+1. Begin Course 5: Analyze Data to Answer Questions
