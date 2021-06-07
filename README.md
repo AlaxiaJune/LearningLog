@@ -212,3 +212,4 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 
 **06/07/2021**
 1. Begin Course 5: Analyze Data to Answer Questions
+2. Self-directed SQL Query practice in BigQuery public data: covid19_govt_response.oxford_policy_tracker
