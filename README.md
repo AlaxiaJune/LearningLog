@@ -198,17 +198,16 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
     
 **06/05/2021**
 1. Continue Course 4, Week 5
-2. https://freecodecamp.org - HTML refresher
+2. https://freecodecamp.org - Responsive Web Design: HTML refresher
 3. Finish FreeCodeCamp HTML. Woot.
 4. Begin FreeCodeCamp Basic CSS.
 5. Finish FreeCodeCamp Basic CSS.
 6. Begin FreeCodeCamp Applied Visual Design.
 
 **06/06/2021**
-1. Continue FreeCodeCamp Applied Visual Design.
-2. Complete FreeCodeCamp Applied Visual Design.
-3. Begin FreeCodeCamp Applied Accessibility.
-4. Complete Course 4: Process Data from Dirty to Clean.
+1. Complete FreeCodeCamp Responsive Web Design: Applied Visual Design.
+2. FreeCodeCamp Responsive Web Design: Applied Accessibility.
+3. Complete Course 4: Process Data from Dirty to Clean.
 
 **06/07/2021**
 1. Begin Course 5: Analyze Data to Answer Questions
@@ -217,3 +216,5 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 
 **06/08/2021**
 1. Begin Course 5, Week 2
+2. FreeCodeCamp Responsive Web Design: CSS Flexbox
+3. FCC Responsive Web Design: CSS Grid
