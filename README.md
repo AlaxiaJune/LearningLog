@@ -218,3 +218,7 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 1. Begin Course 5, Week 2
 2. FreeCodeCamp Responsive Web Design: CSS Flexbox
 3. FCC Responsive Web Design: CSS Grid
+4. Complete FCC Responsive Web Design Project 1: Tribute Page: https://codepen.io/alaxiajune/full/MWpBEZY
+
+**06/09/2021**
+1. Continue Course 5, Week 2
