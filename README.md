@@ -227,3 +227,4 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 
 **06/10/2021**
 1. Continue Course 5, Week 2
+2. Spreadsheet Practice
