@@ -229,3 +229,4 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 1. Continue Course 5, Week 2
 2. Spreadsheet Practice
 3. Manipulating Strings in SQL
+4. Complete Course 5, Week 2
