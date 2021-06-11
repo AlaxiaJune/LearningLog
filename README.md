@@ -224,3 +224,6 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 1. Continue Course 5, Week 2
 2. Self-directed spreadsheets practice: Data validation
 3. Complete FCC Responsive Web Design Project 2: Survey: https://codepen.io/alaxiajune/full/BaWOLLj --I'm sorry, internet.
+
+**06/10/2021**
+1. Continue Course 5, Week 2
