@@ -233,3 +233,4 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 
 **06/11/2021**
 1. Begin Course 5, Week 3
+2. Created new Responsive Web Design Survey Project: https://codepen.io/alaxiajune/pen/LYWgPep 
