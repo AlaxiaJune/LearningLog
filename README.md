@@ -236,3 +236,4 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 2. Created new Responsive Web Design Survey Project: https://codepen.io/alaxiajune/pen/LYWgPep 
 
 **06/12/2021**
+1. Project: FCC Responsive Web Design Product Landing Page
