@@ -237,3 +237,6 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 
 **06/12/2021**
 1. Project: FCC Responsive Web Design Product Landing Page
+
+**06/14/2021**
+1. Continue Course 5, Week 3
