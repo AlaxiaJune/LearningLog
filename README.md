@@ -245,3 +245,6 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 1. Continue Course 5, Week 3
 2. Practice VLOOKUP
 3. Practice SQL JOINs
+
+**06/16/2021**
+
