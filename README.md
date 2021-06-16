@@ -247,4 +247,5 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 3. Practice SQL JOINs
 
 **06/16/2021**
-
+1. Practice SQL JOINs and subqueries
+2. Complete Course 5, Week 3
