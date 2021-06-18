@@ -252,3 +252,7 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 
 **06/17/2021**
 1. Begin Course 5, Week 4: Data Calculations
+2. More spreadsheet function practice
+
+**06/18/2021**
+2. Continue Course 5, Week 4
