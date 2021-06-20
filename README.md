@@ -259,3 +259,6 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 
 **06/19/2021**
 1. StrataScratch video: Coding interview questions
+
+**06/20/2021**
+1. Continue Course 5, Week 4: Pivot Tables practice
