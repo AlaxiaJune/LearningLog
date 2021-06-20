@@ -255,4 +255,7 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 2. More spreadsheet function practice
 
 **06/18/2021**
-2. Continue Course 5, Week 4
+1. Continue Course 5, Week 4
+
+**06/19/2021**
+1. StrataScratch video: Coding interview questions
