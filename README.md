@@ -265,3 +265,4 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 
 **06/21/2021**
 1. Continue Course 5, Week 4: SQL Calculations
+2. SQL practice: StrataScratch
