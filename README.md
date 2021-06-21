@@ -262,3 +262,6 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 
 **06/20/2021**
 1. Continue Course 5, Week 4: Pivot Tables practice
+
+**06/21/2021**
+1. Continue Course 5, Week 4: SQL Calculations
