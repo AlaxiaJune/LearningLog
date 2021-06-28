@@ -269,3 +269,6 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 
 **06/22/2021**
 1. Continue Course 5, Week 4: Temporary tables
+
+**06/28/2021**
+1. Complete Course 5, Week 4
