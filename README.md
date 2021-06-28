@@ -5,11 +5,12 @@ Wherein Alaxia logs things she is stuffing her brain with.
 <p align="center">
     <img src="https://img.shields.io/badge/Subject-Learning%20Log-blue"></br>
     <img src='https://img.shields.io/static/v1?label=Python&message=0/10&color=orange%20?style=for-the-badge&logo=python'>
-    <img src='https://img.shields.io/static/v1?label=SQL&message=5/10&color=orange%20?style=for-the-badge&logo=MySQL'>
+    <img src='https://img.shields.io/static/v1?label=SQL&message=6/10&color=orange%20?style=for-the-badge&logo=MySQL'>
     <img src='https://img.shields.io/static/v1?label=R&message=0/10&color=orange%20?style=for-the-badge&logo=R'>
     <img src='https://img.shields.io/static/v1?label=GitHub&message=1/10&color=orange%20?style=for-the-badge&logo=GitHub'>
-    <img src='https://img.shields.io/static/v1?label=Google%20Sheets&message=5/10&color=orange%20?style=for-the-badge&logo=google%20sheets'>
+    <img src='https://img.shields.io/static/v1?label=Google%20Sheets&message=6/10&color=orange%20?style=for-the-badge&logo=google%20sheets'>
     <img src='https://img.shields.io/static/v1?label=Google%20Analytics&message=0/10&color=orange%20?style=for-the-badge&logo=google%20analytics'>
+    <img src='https://img.shields.io/static/v1?label=BigQuery&message=5/10&color=orange%20?style=for-the-badge&logo=BigQuery'>
     </p>
 <p align="center">
 🏹 Epic Data Campaign 🐉<br/>  
@@ -34,7 +35,7 @@ Wherein Alaxia logs things she is stuffing her brain with.
 2. <s>Ask Questions to Make Data-Driven Decisions - Weeks Complete: 4/4</s> (Start 05/18/21; Complete 05/24/21)
 3. <s>Prepare Data for Exploration - Weeks Complete: 5/5</s> (Start 05/24/21; Complete 05/28/21)
 4. <s>Process Data from Dirty to Clean - Weeks Complete: 5/5</s> (Start 05/29/21; Complete 06/06/21)
-5. Analyze Data to Answer Questions - Weeks Complete: 3/4 (Start 06/07/21)
+5. <s>Analyze Data to Answer Questions - Weeks Complete: 3/4</s> (Start 06/07/21; Complete 06/28/21)
 6. Share Data Through the Art of Visualization - Weeks Complete: 0/4
 7. Data Analysis With R Programming - Weeks Complete: 0/4
 8. Google Data Analytics Capstone: Complete a Case Study - Weeks Complete: 0/4
@@ -62,11 +63,12 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 **Curent Data Skill Set**
 <p align="center">
     <img src='https://img.shields.io/static/v1?label=Python&message=0/10&color=orange%20?style=for-the-badge&logo=python'>
-    <img src='https://img.shields.io/static/v1?label=SQL&message=5/10&color=orange%20?style=for-the-badge&logo=MySQL'>
+    <img src='https://img.shields.io/static/v1?label=SQL&message=6/10&color=orange%20?style=for-the-badge&logo=MySQL'>
     <img src='https://img.shields.io/static/v1?label=R&message=0/10&color=orange%20?style=for-the-badge&logo=R'>
     <img src='https://img.shields.io/static/v1?label=GitHub&message=1/10&color=orange%20?style=for-the-badge&logo=GitHub'>
-    <img src='https://img.shields.io/static/v1?label=Google%20Sheets&message=5/10&color=orange%20?style=for-the-badge&logo=google%20sheets'>
+    <img src='https://img.shields.io/static/v1?label=Google%20Sheets&message=6/10&color=orange%20?style=for-the-badge&logo=google%20sheets'>
     <img src='https://img.shields.io/static/v1?label=Google%20Analytics&message=0/10&color=orange%20?style=for-the-badge&logo=google%20analytics'>
+     <img src='https://img.shields.io/static/v1?label=BigQuery&message=5/10&color=orange%20?style=for-the-badge&logo=BigQuery'>
     </p>
     
 **05/17/2021**
@@ -272,3 +274,4 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 
 **06/28/2021**
 1. Complete Course 5, Week 4
+2. Complete Course 5: Analyze Data to Answer Questions
