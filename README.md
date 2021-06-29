@@ -278,3 +278,4 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 
 **06/29/2021**
 1. Begin Course 6: Sharing Data Through the Art of Data Visualization
+2. David McCandless TED talk: https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization?language=en#t-150183
