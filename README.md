@@ -275,3 +275,6 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 **06/28/2021**
 1. Complete Course 5, Week 4
 2. Complete Course 5: Analyze Data to Answer Questions
+
+**06/29/2021**
+1. Begin Course 6: Sharing Data Through the Art of Data Visualization
