@@ -35,8 +35,8 @@ Wherein Alaxia logs things she is stuffing her brain with.
 2. <s>Ask Questions to Make Data-Driven Decisions - Weeks Complete: 4/4</s> (Start 05/18/21; Complete 05/24/21)
 3. <s>Prepare Data for Exploration - Weeks Complete: 5/5</s> (Start 05/24/21; Complete 05/28/21)
 4. <s>Process Data from Dirty to Clean - Weeks Complete: 5/5</s> (Start 05/29/21; Complete 06/06/21)
-5. <s>Analyze Data to Answer Questions - Weeks Complete: 3/4</s> (Start 06/07/21; Complete 06/28/21)
-6. Share Data Through the Art of Visualization - Weeks Complete: 0/4
+5. <s>Analyze Data to Answer Questions - Weeks Complete: 4/4</s> (Start 06/07/21; Complete 06/28/21)
+6. Share Data Through the Art of Visualization - Weeks Complete: 0/4 (Start 06/29/21)
 7. Data Analysis With R Programming - Weeks Complete: 0/4
 8. Google Data Analytics Capstone: Complete a Case Study - Weeks Complete: 0/4
 
