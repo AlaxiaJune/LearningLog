@@ -282,3 +282,4 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 3. https://artscience.blog/home/the-mccandless-method-of-data-presentation
 
 **06/30/2021**
+1. Continue Course 6, Week 1
