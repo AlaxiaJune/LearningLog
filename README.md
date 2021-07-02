@@ -283,3 +283,8 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 
 **06/30/2021**
 1. Continue Course 6, Week 1
+
+**07/02/2021**
+1. Continue Course 6, Week 1: DataViz
+2. https://www.youtube.com/watch?v=C07k0euBpr8
+3. https://www.youtube.com/watch?v=qGaIB-bRn-A
