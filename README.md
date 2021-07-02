@@ -288,3 +288,4 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 1. Continue Course 6, Week 1: DataViz
 2. https://www.youtube.com/watch?v=C07k0euBpr8
 3. https://www.youtube.com/watch?v=qGaIB-bRn-A
+4. https://www.data-to-viz.com/
