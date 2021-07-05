@@ -293,3 +293,6 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 
 **07/03/2021**
 1. Begin Course 6, Week 2: Getting Started with Tableau
+
+**07/05/2021**
+1. Continue Course 6, Week 2
