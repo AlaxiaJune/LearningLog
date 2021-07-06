@@ -301,3 +301,6 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 2. Self-assigned practice project: CO2 Emissions and Income Group by Country: https://public.tableau.com/views/CO2EmissionsandIncomeGrouping/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link
 3. Complete Course 6, Week 2
 4. Begin Course 6, Week 3: Using Data to Develop Stories
+
+**07/06/2021**
+1. Google Analytics Academy: Google Analytics for Beginners, Unit 1
