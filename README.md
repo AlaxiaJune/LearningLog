@@ -308,4 +308,5 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 3. ", Unit 3
 
 **07/08/2021**
-1. Complete Google Analytics Academy: Google Analytics for Beginners
+1. Complete Google Analytics Academy: Google Analytics for Beginners: https://analytics.google.com/analytics/academy/certificate/Wcn7TqTgTJq8sRPuDJSeOw
+2. 
