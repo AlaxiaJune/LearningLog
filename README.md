@@ -309,4 +309,4 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 
 **07/08/2021**
 1. Complete Google Analytics Academy: Google Analytics for Beginners: https://analytics.google.com/analytics/academy/certificate/Wcn7TqTgTJq8sRPuDJSeOw
-2. 
+2. Countine Course 6, Week 3: Use Tableau Dashboards
