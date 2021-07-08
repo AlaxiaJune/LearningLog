@@ -306,3 +306,6 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 1. Google Analytics Academy: Google Analytics for Beginners, Unit 1
 2. ", Unit 2
 3. ", Unit 3
+
+**07/08/2021**
+1. Complete Google Analytics Academy: Google Analytics for Beginners
