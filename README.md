@@ -321,3 +321,7 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 
 **07/14/2021**
 1. Continue Course 6, Week 4
+
+**07/14/2021**
+1. Continue Course 6, Week 4
+2. Data presentation
