@@ -333,3 +333,6 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 **07/23/2021**
 1. Continue Course 6, Week 4
 2. MySQL DB tutorial: https://www.freecodecamp.org/news/learn-to-use-the-mysql-database/
+
+**08/02/2021**
+1. Complete Module in Course 6, Week 4
