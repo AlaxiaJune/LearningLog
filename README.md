@@ -38,7 +38,7 @@ Wherein Alaxia logs things she is stuffing her brain with.
 4. <s>Process Data from Dirty to Clean - Weeks Complete: 5/5</s> (Start 05/29/21; Complete 06/06/21)
 5. <s>Analyze Data to Answer Questions - Weeks Complete: 4/4</s> (Start 06/07/21; Complete 06/28/21)
 6. <s>re Data Through the Art of Visualization - Weeks Complete: 4/4</s> (Start 06/29/21; Complete 08/02/21)
-7. Data Analysis With R Programming - Weeks Complete: 0/4 (Start 08/02/21)
+7. Data Analysis With R Programming - Weeks Complete: 1/4 (Start 08/02/21)
 8. Google Data Analytics Capstone: Complete a Case Study - Weeks Complete: 0/4
 
 ### SQL training
@@ -341,4 +341,8 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 **08/02/2021**
 1. Complete Module in Course 6, Week 4
 2. Complete Course 6!  
-3. Begin Data Analysis With R Programming
+3. Begin Course 7: Data Analysis With R Programming
+
+**08/03/2021**
+1. Complete Course 7, Week 1
+2. Begin Course 7, Week 2
