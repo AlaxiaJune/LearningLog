@@ -346,3 +346,6 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 **08/03/2021**
 1. Complete Course 7, Week 1
 2. Begin Course 7, Week 2
+
+**08/04/2021**
+1. Continue Course 7, Week 2
