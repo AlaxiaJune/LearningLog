@@ -352,3 +352,6 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 
 **08/05/2021**
 1. Continue Course 7, Week 2: Vectors & Lists, Date-time, Data Structures
+
+**08/05/2021**
+1. Coding practice
