@@ -356,3 +356,6 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 **08/06/2021**
 1. R practice
 2. SQL practice
+
+**08/09/2021**
+1. Continue Course 7, Week 2
