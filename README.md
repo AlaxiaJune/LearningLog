@@ -362,3 +362,6 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 
 **08/10/2021**
 1. Graphics project - Learned to make a gif!
+
+**08/11/2021**
+1. Continue Course 7, Week 2
