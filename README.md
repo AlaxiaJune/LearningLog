@@ -367,4 +367,4 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 1. Continue Course 7, Week 2
 
 **08/12/2021**
-1. Continue ^, conditional operators
+1. Continue ^, conditional statements
