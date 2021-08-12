@@ -365,3 +365,6 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 
 **08/11/2021**
 1. Continue Course 7, Week 2
+
+**08/12/2021**
+1. Continue ^, conditional operators
