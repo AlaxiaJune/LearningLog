@@ -372,3 +372,6 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 **08/13/2021**
 1. Rrrrrrrr.... https://style.tidyverse.org/files.html#names
 2. R Sandbox project
+
+**08/17/2021**
+1. R Sandbox
