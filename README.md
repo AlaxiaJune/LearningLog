@@ -381,3 +381,7 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 
 **08/20/2021**
 1. Tidyverse and pipes
+
+**08/25/2921**
+1. Recover from Delta breakthrough 
+2. John Wick data analysis, Kaggle
