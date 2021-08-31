@@ -389,3 +389,9 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 
 **08/25/2021**
 1. Continue Course 7
+
+**08/26 - 08/30/2021**
+Recovering and preparing for big move
+
+**08/31/2021**
+1. Continue Course 7
