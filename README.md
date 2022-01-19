@@ -398,6 +398,6 @@ Recovering and preparing for big move
 2. Complete Course 7, week 2
 
 **01/18/2021**
-During the past four months, I experienced a breakthrough Covid infection, we almost lost my father-in-law to Covid pneumonia, my husband started a new job, and we started the world's longest moving process only two hours away.  After all this time, my financial aid ran out and I had to reapply.  I'm back!  But now, I am reviewing everything I've leared and hoping I didn't forget too much!
+During the past four months, I experienced a breakthrough Covid infection, we almost lost my father-in-law to Covid pneumonia, my husband started a new job, and we started the world's longest moving process only two hours away.  After all this time, my financial aid ran out and I had to reapply.  I'm back!  But now, I am reviewing everything I've learned and hoping I didn't forget too much!
 
 
