@@ -408,3 +408,6 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 
 **01/31/2022*
 1. Excel refresher
+
+**02/07/2022*
+1. R learning
