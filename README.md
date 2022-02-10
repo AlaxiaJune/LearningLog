@@ -406,8 +406,11 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 **01/20/2022 - 01/30/2022**
 1. SQL refresher, Python learning, R learning
 
-**01/31/2022*
+**01/31/2022**
 1. Excel refresher
 
-**02/07/2022*
+**02/07/2022**
 1. R learning
+
+**02/10/2022**
+1. R- Pipes
