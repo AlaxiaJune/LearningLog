@@ -414,3 +414,7 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 
 **02/10/2022**
 1. R- Pipes
+
+**02/11/2022**
+1. Complete Course 7, Week 2 (again)
+2. Begin Course 7, Week 3: Explore Data and R
