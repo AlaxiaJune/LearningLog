@@ -423,3 +423,4 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 1. Continuing Course 7, Week 3
 2. Explore tibbles
 3. Follow up on tidy data and use of spread()
+4. Importating data 
