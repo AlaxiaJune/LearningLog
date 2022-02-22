@@ -424,3 +424,8 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 2. Explore tibbles
 3. Follow up on tidy data and use of spread()
 4. Importating data 
+
+**02/22/2022*
+1. Basic cleaning with R
+2. here, skimr, and janitor
+3. File naming conventions
