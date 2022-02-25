@@ -436,3 +436,4 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 
 **02/25/2022**
 1. Data organization and filtering data with R
+2. Hands-on cleaning activity, using mutate(), summarize(), and other functions
