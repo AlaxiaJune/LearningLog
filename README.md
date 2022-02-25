@@ -438,3 +438,4 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 1. Data organization and filtering data with R
 2. Hands-on cleaning activity, using mutate(), summarize(), and other functions
 3. Transforming data with R
+4. Practice Quiz, Cleaning Data with R: 100%
