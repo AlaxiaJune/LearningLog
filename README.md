@@ -433,3 +433,6 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 **02/24/2022**
 1. Organizing data with R
 2. Various functions for data organization
+
+**02/25/2022**
+1. Data organization and filtering data with R
