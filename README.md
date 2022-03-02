@@ -442,3 +442,6 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 
 **02/28/2022**
 1. Ascombe's Quartet
+
+**03/02/2022*
+1. Bias function 
