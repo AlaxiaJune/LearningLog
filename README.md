@@ -445,3 +445,6 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 
 **03/02/2022*
 1. Bias function 
+2. Data manipulation in R practice
+3. Week 3 Test - 100%
+4. Complete Clourse 7, Week 3
