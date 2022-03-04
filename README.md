@@ -448,3 +448,6 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 2. Data manipulation in R practice
 3. Week 3 Test - 100%
 4. Complete Clourse 7, Week 3
+
+**03/03/2022**
+1. SQL challenges
