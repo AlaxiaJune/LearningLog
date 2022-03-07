@@ -451,3 +451,6 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 
 **03/03/2022**
 1. SQL challenges
+
+**03/07/2022**
+1. HackerRank SQL challenges
