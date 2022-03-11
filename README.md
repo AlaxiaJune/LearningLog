@@ -457,3 +457,6 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 
 **03/10/2022**
 1. Visualizations in R
+
+**03/11/2022**
+1. ggplot2
