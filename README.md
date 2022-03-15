@@ -460,3 +460,7 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 
 **03/11/2022**
 1. ggplot2
+
+**03/15/2022**
+1. MORE ggplot2
+2. Also more Lembas bread
