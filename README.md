@@ -468,3 +468,4 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 **03/21/2022**
 1. Enhancing visualizations in R
 2. Stats Education: Intro to R: Getting Started
+3. Swirl Course
