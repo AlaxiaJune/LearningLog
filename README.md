@@ -469,3 +469,8 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 1. Enhancing visualizations in R
 2. Stats Education: Intro to R: Getting Started
 3. Swirl Course
+
+**03/28/2022**
+1. Filtering in R
+2. Data manipulation
+3. DataViz
