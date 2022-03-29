@@ -474,3 +474,6 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 1. Filtering in R
 2. Data manipulation
 3. DataViz
+
+**03/29/2022**
+1. R-Ladies Sydney, RYouWithMe course
