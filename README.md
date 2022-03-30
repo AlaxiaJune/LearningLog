@@ -7,7 +7,7 @@ Wherein Alaxia logs things she is stuffing her brain with.
     <img src='https://img.shields.io/static/v1?label=Python&message=0/10&color=orange%20?style=for-the-badge&logo=python'>
     <img src='https://img.shields.io/static/v1?label=SQL&message=6/10&color=orange%20?style=for-the-badge&logo=MySQL'>
     <img src='https://img.shields.io/static/v1?label=Tableau&message=4/10&color=orange%20?style=for-the-badge&logo=Tableau'>
-    <img src='https://img.shields.io/static/v1?label=R&message=4/10&color=orange%20?style=for-the-badge&logo=R'>
+    <img src='https://img.shields.io/static/v1?label=R&message=5/10&color=orange%20?style=for-the-badge&logo=R'>
     <img src='https://img.shields.io/static/v1?label=GitHub&message=1/10&color=orange%20?style=for-the-badge&logo=GitHub'>
     <img src='https://img.shields.io/static/v1?label=Google%20Sheets&message=8/10&color=orange%20?style=for-the-badge&logo=google%20sheets'>
     <img src='https://img.shields.io/static/v1?label=Google%20Analytics&message=5/10&color=orange%20?style=for-the-badge&logo=google%20analytics'>
@@ -70,7 +70,7 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
     <img src='https://img.shields.io/static/v1?label=Python&message=0/10&color=orange%20?style=for-the-badge&logo=python'>
     <img src='https://img.shields.io/static/v1?label=SQL&message=6/10&color=orange%20?style=for-the-badge&logo=MySQL'>
      <img src='https://img.shields.io/static/v1?label=Tableau&message=4/10&color=orange%20?style=for-the-badge&logo=Tableau'>
-    <img src='https://img.shields.io/static/v1?label=R&message=4/10&color=orange%20?style=for-the-badge&logo=R'>
+    <img src='https://img.shields.io/static/v1?label=R&message=5/10&color=orange%20?style=for-the-badge&logo=R'>
     <img src='https://img.shields.io/static/v1?label=GitHub&message=1/10&color=orange%20?style=for-the-badge&logo=GitHub'>
     <img src='https://img.shields.io/static/v1?label=Google%20Sheets&message=8/10&color=orange%20?style=for-the-badge&logo=google%20sheets'>
     <img src='https://img.shields.io/static/v1?label=Google%20Analytics&message=5/10&color=orange%20?style=for-the-badge&logo=google%20analytics'>
@@ -477,3 +477,7 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 
 **03/29/2022**
 1. R-Ladies Sydney, RYouWithMe course
+2. Unit 1 - Unit 2.3
+
+**03/29/2022**
+1. RYouWithMe: 2.3 and 2.4
