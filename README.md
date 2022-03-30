@@ -52,12 +52,13 @@ https://sqlzoo.net/wiki/SQL_Tutorial<br>
 
 ### R training
 1. Google/Coursera: Data Analysis with R Programming
+2. R-Ladies Sydney: RYouWithMe
 
 ### Python training
 https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 
 ### Tableau training
-(waiting)
+1. Google/Coursera
 
 ### Regex Study
 (waiting)
