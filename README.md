@@ -3,11 +3,11 @@ Wherein Alaxia logs things she is stuffing her brain with.
 
 # Learning Bag of Holding
 <p align="center">
+    <img src='https://img.shields.io/static/v1?label=R&message=5/10&color=orange%20?style=for-the-badge&logo=R'>
     <img src="https://img.shields.io/badge/Subject-Learning%20Log-blue"></br>
     <img src='https://img.shields.io/static/v1?label=Python&message=0/10&color=orange%20?style=for-the-badge&logo=python'>
     <img src='https://img.shields.io/static/v1?label=SQL&message=6/10&color=orange%20?style=for-the-badge&logo=MySQL'>
     <img src='https://img.shields.io/static/v1?label=Tableau&message=4/10&color=orange%20?style=for-the-badge&logo=Tableau'>
-    <img src='https://img.shields.io/static/v1?label=R&message=5/10&color=orange%20?style=for-the-badge&logo=R'>
     <img src='https://img.shields.io/static/v1?label=GitHub&message=1/10&color=orange%20?style=for-the-badge&logo=GitHub'>
     <img src='https://img.shields.io/static/v1?label=Google%20Sheets&message=8/10&color=orange%20?style=for-the-badge&logo=google%20sheets'>
     <img src='https://img.shields.io/static/v1?label=Google%20Analytics&message=5/10&color=orange%20?style=for-the-badge&logo=google%20analytics'>
@@ -67,10 +67,10 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 
 **Curent Data Skill Set**
 <p align="center">
+    <img src='https://img.shields.io/static/v1?label=R&message=5/10&color=orange%20?style=for-the-badge&logo=R'>
     <img src='https://img.shields.io/static/v1?label=Python&message=0/10&color=orange%20?style=for-the-badge&logo=python'>
     <img src='https://img.shields.io/static/v1?label=SQL&message=6/10&color=orange%20?style=for-the-badge&logo=MySQL'>
-     <img src='https://img.shields.io/static/v1?label=Tableau&message=4/10&color=orange%20?style=for-the-badge&logo=Tableau'>
-    <img src='https://img.shields.io/static/v1?label=R&message=5/10&color=orange%20?style=for-the-badge&logo=R'>
+    <img src='https://img.shields.io/static/v1?label=Tableau&message=4/10&color=orange%20?style=for-the-badge&logo=Tableau'>
     <img src='https://img.shields.io/static/v1?label=GitHub&message=1/10&color=orange%20?style=for-the-badge&logo=GitHub'>
     <img src='https://img.shields.io/static/v1?label=Google%20Sheets&message=8/10&color=orange%20?style=for-the-badge&logo=google%20sheets'>
     <img src='https://img.shields.io/static/v1?label=Google%20Analytics&message=5/10&color=orange%20?style=for-the-badge&logo=google%20analytics'>
