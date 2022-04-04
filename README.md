@@ -482,3 +482,6 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 
 **03/29/2022**
 1. RYouWithMe: Finished CleanItUp
+
+**04/04/2022**
+1. RYouWithMe: VizW(h)iz Lesson 1
