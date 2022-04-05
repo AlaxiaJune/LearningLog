@@ -486,3 +486,7 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 **04/04/2022**
 1. RYouWithMe: VizW(h)iz Lesson 1
 2. RYouWithMe: VizW(h)iz Lesson 2
+3. RYouWithMe: VizW(h)iz Lesson 3 (partial)
+
+**04/05/2022**
+1.
