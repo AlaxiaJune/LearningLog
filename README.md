@@ -1,5 +1,5 @@
 # LearningLog
-Wherein Alaxia logs things she is stuffing her brain with.
+Wherein Alaxia logs things with which she is stuffing her brain.
 
 # Learning Bag of Holding
 <p align="center">
