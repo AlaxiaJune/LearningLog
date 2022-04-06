@@ -492,3 +492,7 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 1. RYouWithMe: VizW(h)iz Lesson 3 completed
 2. RYouWithMe: VizW(h)iz Lesson 4
 3. RYouWithMe: VizW(h)iz Lesson 5 (Unit completed)
+
+**04/06/2022**
+1. Personal R Manual document project
+2. RYouWithMe: MarkyMark Lesson 1
