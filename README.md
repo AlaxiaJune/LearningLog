@@ -20,7 +20,7 @@ Wherein Alaxia logs things with which she is stuffing her brain.
 
 ## Objective of the Learning Log
 1. Log of Professional Learning
-2. Learning correct Github usage
+2. Learning correct Github usage... and possibly ignoring it.
 
 ### Professional Development Goals (Current)
 1. Cousera / Google Data Analytics Certificate
