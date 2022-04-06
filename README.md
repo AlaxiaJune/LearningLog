@@ -496,3 +496,4 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 **04/06/2022**
 1. Personal R Manual document project
 2. RYouWithMe: MarkyMark Lesson 1
+3. RYouWithMe: MarkyMark Lesson 2
