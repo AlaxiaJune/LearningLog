@@ -504,3 +504,4 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 2. RYouWithMe: Course Complete.
 3. Coursera: Course 7, Week 4: Annotate and save visualizations section
 4. Complete Course 7, Week 4
+5. Begin Course 7, Week 5: Documentation and reports
