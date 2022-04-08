@@ -502,3 +502,4 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 **04/08/2022**
 1. RYouWithMe: MarkyMark Lesson 4
 2. RYouWithMe: Course Complete.
+3. Coursera: Course 7, Week 4: Annotate and save visualizations
