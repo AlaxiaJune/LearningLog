@@ -52,7 +52,7 @@ https://sqlzoo.net/wiki/SQL_Tutorial<br>
 
 ### R training
 1. Google/Coursera: Data Analysis with R Programming
-2. R-Ladies Sydney: RYouWithMe
+2. R-Ladies Sydney: RYouWithMe - Complete 04/08/2022
 
 ### Python training
 https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
@@ -498,3 +498,7 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 2. RYouWithMe: MarkyMark Lesson 1
 3. RYouWithMe: MarkyMark Lesson 2
 4. RYouWithMe: MarkyMark Lesson 3
+
+**04/08/2022**
+1. RYouWithMe: MarkyMark Lesson 4
+2. RYouWithMe: Course Complete.
