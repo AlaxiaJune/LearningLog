@@ -508,3 +508,4 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 
 **04/11/2022**
 1. R Markdown: https://bookdown.org/yihui/rmarkdown/compile.html
+2. Course 7, Week 5: Create R Markdown Documents
