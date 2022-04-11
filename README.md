@@ -511,3 +511,4 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 2. Course 7, Week 5: Create R Markdown Documents
 3. Course 7, Week 5 Test: 100%
 4. Course 7 Exam: 100%
+5. Begin Course 8, Week 1
