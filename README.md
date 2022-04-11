@@ -4,7 +4,7 @@ Wherein Alaxia logs things with which she is stuffing her brain.
 # Learning Bag of Holding
 <p align="center">
     <img src="https://img.shields.io/badge/Subject-Learning%20Log-blue"></br>
-    <img src='https://img.shields.io/static/v1?label=R&message=5/10&color=orange%20?style=for-the-badge&logo=R'>
+    <img src='https://img.shields.io/static/v1?label=R&message=7/10&color=orange%20?style=for-the-badge&logo=R'>
     <img src='https://img.shields.io/static/v1?label=Python&message=0/10&color=orange%20?style=for-the-badge&logo=python'>
     <img src='https://img.shields.io/static/v1?label=SQL&message=6/10&color=orange%20?style=for-the-badge&logo=MySQL'>
     <img src='https://img.shields.io/static/v1?label=Tableau&message=4/10&color=orange%20?style=for-the-badge&logo=Tableau'>
@@ -38,7 +38,7 @@ Wherein Alaxia logs things with which she is stuffing her brain.
 4. <s>Process Data from Dirty to Clean - Weeks Complete: 5/5</s> (Start 05/29/21; Complete 06/06/21)
 5. <s>Analyze Data to Answer Questions - Weeks Complete: 4/4</s> (Start 06/07/21; Complete 06/28/21)
 6. <s>re Data Through the Art of Visualization - Weeks Complete: 4/4</s> (Start 06/29/21; Complete 08/02/21)
-7. Data Analysis With R Programming - Weeks Complete: 4/5 (Start 08/02/21)
+7. <s>Data Analysis With R Programming - Weeks Complete: 4/5 (Start 08/02/21; Complete 04/11/22)</s>
 8. Google Data Analytics Capstone: Complete a Case Study - Weeks Complete: 0/4
 
 ### SQL training
@@ -51,7 +51,7 @@ https://sqlzoo.net/wiki/SQL_Tutorial<br>
 2. Advanced Google Analytics
 
 ### R training
-1. Google/Coursera: Data Analysis with R Programming
+1. Google/Coursera: Data Analysis with R Programming - Complete 04/11/2022
 2. R-Ladies Sydney: RYouWithMe - Complete 04/08/2022
 
 ### Python training
@@ -68,7 +68,7 @@ https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
 
 **Curent Data Skill Set**
 <p align="center">
-    <img src='https://img.shields.io/static/v1?label=R&message=5/10&color=orange%20?style=for-the-badge&logo=R'>
+    <img src='https://img.shields.io/static/v1?label=R&message=7/10&color=orange%20?style=for-the-badge&logo=R'>
     <img src='https://img.shields.io/static/v1?label=Python&message=0/10&color=orange%20?style=for-the-badge&logo=python'>
     <img src='https://img.shields.io/static/v1?label=SQL&message=6/10&color=orange%20?style=for-the-badge&logo=MySQL'>
     <img src='https://img.shields.io/static/v1?label=Tableau&message=4/10&color=orange%20?style=for-the-badge&logo=Tableau'>
@@ -509,3 +509,5 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 **04/11/2022**
 1. R Markdown: https://bookdown.org/yihui/rmarkdown/compile.html
 2. Course 7, Week 5: Create R Markdown Documents
+3. Course 7, Week 5 Test: 100%
+4. Course 7 Exam: 100%
