@@ -514,7 +514,7 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 5. Begin Course 8, Week 1
 6. Complete Course 8, Week 1
 
-**04/12/2022*
+**04/12/2022**
 1. Begin Course 8, Week 2
 2. Begin case study one: Bike-share
 3. Bang head against the wall when datasets too large for course-recommended upload to Sheets.
