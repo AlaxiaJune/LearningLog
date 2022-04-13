@@ -521,3 +521,6 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 4. Seek medical attention.
 5. Find alternative tool for cleaning and analysis.
 6. Fall in love with R all over again. Consider proposing.
+
+**04/13/2022**
+1. Continue case study: Clean data
