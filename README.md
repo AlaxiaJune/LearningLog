@@ -526,7 +526,7 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 1. Continue case study: Clean data
 2. Write up cleaning steps in R markdown file
 
-**04/14/2022*
+**04/14/2022**
 1. Continue case study: Manipulate the data
 2. Write manipulation and description into Rmd
 3. Begin EDA
