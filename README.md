@@ -534,4 +534,7 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 
 **04/15/2022**
 1. Continue case study: Visualizations and written analysis
-2. 
+2. Create Chicago weather dataframe for comparison to riding stats
+
+**04/16/2022**
+1. Continue case study: Visualizations, written analysis
