@@ -546,3 +546,4 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 1. Continue Course 8, Week 2
 2. Create a GitHub portolio
 3. Try not to break my new GitHub page... Spoiler: I have no idea what I'm doing!
+4. Rough draft GitHub page: https://alaxiajune.github.io/
