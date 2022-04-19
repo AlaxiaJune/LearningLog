@@ -538,3 +538,6 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 
 **04/16/2022**
 1. Continue case study: Visualizations, written analysis
+
+**04/16/2022**
+1. Complete Cyclistic Case Study and publish: https://rpubs.com/AlaxiaJune/Cyclistic
