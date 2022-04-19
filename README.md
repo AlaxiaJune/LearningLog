@@ -544,3 +544,4 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 
 **04/19/2022**
 1. Continue Course 8, Week 2
+2. Create a GitHub portolio
