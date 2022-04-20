@@ -547,4 +547,8 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 2. Create a GitHub portolio
 3. Try not to break my new GitHub page... Spoiler: I have no idea what I'm doing!
 4. Rough draft GitHub page: https://alaxiajune.github.io/
-5. Complete Course 8, Week 3
+5. Complete Course 8, Week 2
+
+**04/20/2022*
+1. Begin Course 8, Week 3
+2. Learn how to make final tweaks to GitHub page and update various platforms with the link
