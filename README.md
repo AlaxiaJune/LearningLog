@@ -39,7 +39,7 @@ Wherein Alaxia logs things with which she is stuffing her brain.
 5. <s>Analyze Data to Answer Questions - Weeks Complete: 4/4</s> (Start 06/07/21; Complete 06/28/21)
 6. <s>re Data Through the Art of Visualization - Weeks Complete: 4/4</s> (Start 06/29/21; Complete 08/02/21)
 7. <s>Data Analysis With R Programming - Weeks Complete: 5/5 (Start 08/02/21; Complete 04/11/22)</s>
-8. Google Data Analytics Capstone: Complete a Case Study - Weeks Complete: 2/4 (Start 04/11/22)
+8. <s>Google Data Analytics Capstone: Complete a Case Study - Weeks Complete: 4/4 (Start 04/11/22; Complete 04/20/22)</s>
 
 ### SQL training
 https://www.w3schools.com/sql/default.asp - Complete 06/03/21 <br>
@@ -549,7 +549,10 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 4. Rough draft GitHub page: https://alaxiajune.github.io/
 5. Complete Course 8, Week 2
 
-**04/20/2022*
+**04/20/2022**
 1. Begin Course 8, Week 3
 2. Learn how to make final tweaks to GitHub page and update various platforms with the link
 3. Complete Course 8, Week 3
+4. Begin Course 8, Week 4
+5. Complete Course 8, Week 4
+6. Complete Google Data Analytics program
