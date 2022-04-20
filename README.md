@@ -552,3 +552,4 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 **04/20/2022*
 1. Begin Course 8, Week 3
 2. Learn how to make final tweaks to GitHub page and update various platforms with the link
+3. Complete Course 8, Week 3
