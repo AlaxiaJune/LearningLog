@@ -556,3 +556,10 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 4. Begin Course 8, Week 4
 5. Complete Course 8, Week 4
 6. Complete Google Data Analytics program
+
+**04/22/2022**
+1. Google Analytics training
+2. GA4
+
+**04/25/2022**
+1. SAS Data Literacy Essentials
