@@ -566,3 +566,6 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 
 **04/26/2022**
 1. Continue bike share case study followup
+
+**04/27/2022**
+1. SAS Data Literacy Essentials Module 3
