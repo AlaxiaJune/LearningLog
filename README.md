@@ -581,4 +581,5 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 2. Begin: The Data Scientist's Toolbox
 3. Complete TDST Week 1
 4. Begin TDST Week2
+5. Complete TDST Week 2
 
