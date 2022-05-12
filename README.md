@@ -578,3 +578,5 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 
 **05/11/2022*
 1. Running totals - SQL
+2. Begin: The Data Scientist's Toolbox
+
