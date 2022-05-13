@@ -594,4 +594,9 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 2. Complete TDST Week 4
 3. Complete Course 1: The Data Scientist's Toolbox
 4. Begin Google/Coursera Project Management Certificate
-5. Complete PMC Week 1
+5. Complete PMC Course 1, Week 1
+
+**05/13/2022**
+1. Begin Project Management Certificate Course 1, Week 2
+2. Complete PMC Course 1, Week 2
+3. Begin UCDavis SQL for Data Science, Course 1, Week 1 (Learn SQL Basics for Data Science Specialization)
