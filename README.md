@@ -593,3 +593,5 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 1. Complete TDST Week 3
 2. Complete TDST Week 4
 3. Complete Course 1: The Data Scientist's Toolbox
+4. Begin Google/Coursera Project Management Certificate
+5. Complete PMC Week 1
