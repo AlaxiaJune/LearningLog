@@ -23,13 +23,19 @@ Wherein Alaxia logs things with which she is stuffing her brain.
 2. Learning correct Github usage... and possibly ignoring it.
 
 ### Professional Development Goals (Current)
-1. Cousera / Google Data Analytics Certificate
-2. SQL training
-3. R training
+1. Johns Hopkins University/Coursera: Data Science: Foundations using R Specialization
+2. Further SQL training
+3. Further R training
 4. Python training
-5. Tableau training
+5. Tableau practice
 6. Familiarize Regex
+7. Complete Google Analytics Individual Qualification
 
+### Professional Development Goals (Completed)
+1. Cousera / Google Data Analytics Certificate
+2. Basic SQL
+3. Functional R Programming through the EDA process
+4. Familiar with Tableau
 
 ### Google Data Analytics Certificate Progress
 1. <s>Foundations: Data, Data, Everywhere - Weeks Complete: 5/5</s> (Start 05/03/21; Complete 05/17/21)
@@ -586,3 +592,4 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 **05/12/2022**
 1. Complete TDST Week 3
 2. Complete TDST Week 4
+3. Complete Course 1: The Data Scientist's Toolbox
