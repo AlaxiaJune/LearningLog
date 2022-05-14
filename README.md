@@ -616,3 +616,4 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 2. Begin Google Crash Course on Python
 3. Complete Google Python Week 1
 4. Learn about p-values: https://www.youtube.com/watch?v=UsU-O2Z1rAs
+5. Statistics in 30 minutes: https://www.youtube.com/watch?v=kyjlxsLW1Is
