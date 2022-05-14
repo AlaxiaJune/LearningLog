@@ -606,3 +606,4 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 5. Begin University of Michigan Python for Everybody, Course 1, Week 1
 6. Complete Python for Everybody Course 1, Week 1
 7. Begin Python for Everybody Course 1, Week 2
+8. Complete Python for Everybody Course 1, Week 2
