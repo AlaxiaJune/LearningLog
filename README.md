@@ -603,4 +603,6 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 2. Complete PMC Course 1, Week 2
 3. Begin UCDavis SQL for Data Science, Course 1, Week 1 (Learn SQL Basics for Data Science Specialization)
 4. Complete SQL for Data Science, Course 1, Week 1
-5. Begin University of Michigan Programming for Everybody, Course 1, Week 1
+5. Begin University of Michigan Python for Everybody, Course 1, Week 1
+6. Complete Python for Everybody Course 1, Week 1
+7. Begin Python for Everybody Course 1, Week 2
