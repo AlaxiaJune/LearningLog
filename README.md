@@ -23,7 +23,7 @@ Wherein Alaxia logs things with which she is stuffing her brain.
 2. Learning correct Github usage... and possibly ignoring it.
 
 ### Professional Development Goals (Current)
-1. Johns Hopkins University/Coursera: Data Science: Foundations using R Specialization
+1. Johns Hopkins University/Coursera: Data Science: Foundations Using R Specialization
 2. Further SQL training
 3. Further R training
 4. Python training
@@ -46,6 +46,10 @@ Wherein Alaxia logs things with which she is stuffing her brain.
 6. <s>re Data Through the Art of Visualization - Weeks Complete: 4/4</s> (Start 06/29/21; Complete 08/02/21)
 7. <s>Data Analysis With R Programming - Weeks Complete: 5/5 (Start 08/02/21; Complete 04/11/22)</s>
 8. <s>Google Data Analytics Capstone: Complete a Case Study - Weeks Complete: 4/4 (Start 04/11/22; Complete 04/20/22)</s>
+
+### Johns Hopkins University's Data Science: Foundations Using R Specialization
+1. <s>The Data Scientist's Toolbox - Weeks Complete: 4/4</s> (Start 05/11/22; Complete 05/12/22)
+2. R Programming - Weeks Complete: 0/4 (Start 05/14/22)
 
 ### SQL training
 1. https://www.w3schools.com/sql/default.asp - Complete 06/03/21 
@@ -617,3 +621,4 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 3. Complete Google Python Week 1
 4. Learn about p-values: https://www.youtube.com/watch?v=UsU-O2Z1rAs
 5. Statistics in 30 minutes: https://www.youtube.com/watch?v=kyjlxsLW1Is
+6. Begin JHU R Programming (Course 2 of Data Science), Week 1
