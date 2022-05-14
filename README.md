@@ -48,9 +48,10 @@ Wherein Alaxia logs things with which she is stuffing her brain.
 8. <s>Google Data Analytics Capstone: Complete a Case Study - Weeks Complete: 4/4 (Start 04/11/22; Complete 04/20/22)</s>
 
 ### SQL training
-https://www.w3schools.com/sql/default.asp - Complete 06/03/21 <br>
-http://sqlfiddle.com/<br>
-https://sqlzoo.net/wiki/SQL_Tutorial<br>
+1. https://www.w3schools.com/sql/default.asp - Complete 06/03/21 
+2. http://sqlfiddle.com/
+3. https://sqlzoo.net/wiki/SQL_Tutorial
+4. UC Davis SQL for Data Science - Begin 05/13/2022
 
 ### Google Analytics
 1. Google Analytics for Beginners - Complete 07/08/2021
@@ -61,7 +62,7 @@ https://sqlzoo.net/wiki/SQL_Tutorial<br>
 2. R-Ladies Sydney: RYouWithMe - Complete 04/08/2022
 
 ### Python training
-https://www.w3schools.com/python/default.asp - Begin 06/03/21<br>
+1. Coursera/University of Michigan: Python for Everybody - Begin 05/13/2022
 
 ### Tableau training
 1. Google/Coursera
@@ -600,3 +601,5 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 1. Begin Project Management Certificate Course 1, Week 2
 2. Complete PMC Course 1, Week 2
 3. Begin UCDavis SQL for Data Science, Course 1, Week 1 (Learn SQL Basics for Data Science Specialization)
+4. Complete SQL for Data Science, Course 1, Week 1
+5. Begin University of Michigan Programming for Everybody, Course 1, Week 1
