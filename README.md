@@ -63,6 +63,7 @@ Wherein Alaxia logs things with which she is stuffing her brain.
 
 ### Python training
 1. Coursera/University of Michigan: Python for Everybody - Begin 05/13/2022
+2. Coursera/Google: Crash Course on Python
 
 ### Tableau training
 1. Google/Coursera
