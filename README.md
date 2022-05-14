@@ -608,3 +608,8 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 7. Begin Python for Everybody Course 1, Week 2
 8. Complete Python for Everybody Course 1, Week 2
 9. Complete Py4e Week 2
+10. Begin Py4e Week 3
+11. Complete Py4e Week 3
+
+**05/14/2022**
+1. Begin Py4e Week 4
