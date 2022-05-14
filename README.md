@@ -613,3 +613,4 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 
 **05/14/2022**
 1. Begin Py4e Week 4
+2. Begin Google Crash Course on Python
