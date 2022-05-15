@@ -625,4 +625,4 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 
 **05/15/2022**
 1. Complete R Programming, Week 1
-2.
+2. Begin Project Management, Week 3
