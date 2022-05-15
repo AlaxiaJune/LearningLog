@@ -622,3 +622,7 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 4. Learn about p-values: https://www.youtube.com/watch?v=UsU-O2Z1rAs
 5. Statistics in 30 minutes: https://www.youtube.com/watch?v=kyjlxsLW1Is
 6. Begin JHU R Programming (Course 2 of Data Science), Week 1
+
+**05/15/2022**
+1. Complete R Programming, Week 1
+2.
