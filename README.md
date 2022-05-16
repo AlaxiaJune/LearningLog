@@ -627,3 +627,7 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 1. Complete R Programming, Week 1
 2. Begin Project Management, Week 3
 3. Complete Project Management, Week 3
+
+**05/16/2022**
+1. Begin SQL for Data Science Course 1, Week 2
+2.
