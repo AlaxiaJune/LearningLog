@@ -37,46 +37,64 @@ Wherein Alaxia logs things with which she is stuffing her brain.
 3. Functional R Programming through the EDA process
 4. Familiar with Tableau
 
-### Google Data Analytics Certificate Progress
+# Current and Completed Professional Learning
+
+## Data Analytics 
+
+### Completed: Google Data Analytics Certificate Progress
 1. <s>Foundations: Data, Data, Everywhere - Weeks Complete: 5/5</s> (Start 05/03/21; Complete 05/17/21)
 2. <s>Ask Questions to Make Data-Driven Decisions - Weeks Complete: 4/4</s> (Start 05/18/21; Complete 05/24/21)
 3. <s>Prepare Data for Exploration - Weeks Complete: 5/5</s> (Start 05/24/21; Complete 05/28/21)
 4. <s>Process Data from Dirty to Clean - Weeks Complete: 5/5</s> (Start 05/29/21; Complete 06/06/21)
 5. <s>Analyze Data to Answer Questions - Weeks Complete: 4/4</s> (Start 06/07/21; Complete 06/28/21)
-6. <s>re Data Through the Art of Visualization - Weeks Complete: 4/4</s> (Start 06/29/21; Complete 08/02/21)
+6. <s>Share Data Through the Art of Visualization - Weeks Complete: 4/4</s> (Start 06/29/21; Complete 08/02/21)
 7. <s>Data Analysis With R Programming - Weeks Complete: 5/5 (Start 08/02/21; Complete 04/11/22)</s>
 8. <s>Google Data Analytics Capstone: Complete a Case Study - Weeks Complete: 4/4 (Start 04/11/22; Complete 04/20/22)</s>
 
-### Johns Hopkins University's Data Science: Foundations Using R Specialization
-1. <s>The Data Scientist's Toolbox - Weeks Complete: 4/4</s> (Start 05/11/22; Complete 05/12/22)
-2. R Programming - Weeks Complete: 0/4 (Start 05/14/22)
 
-### SQL training
+## SQL training
 1. https://www.w3schools.com/sql/default.asp - Complete 06/03/21 
-2. http://sqlfiddle.com/
-3. https://sqlzoo.net/wiki/SQL_Tutorial
-4. UC Davis SQL for Data Science - Begin 05/13/2022
+2. Google Data Analytics Courses 2 through 5 - Complete 06/28/21
+3. UC Davis SQL for Data Science - Begin 05/13/2022
 
-### Google Analytics
-1. Google Analytics for Beginners - Complete 07/08/2021
-2. Advanced Google Analytics
+### UC Davis SQL for Data Science Specialization
+1. SQL for Data Science - Week 1/4 (Start 05/13/2022)
 
-### R training
+
+## R training
 1. Google/Coursera: Data Analysis with R Programming - Complete 04/11/2022
 2. R-Ladies Sydney: RYouWithMe - Complete 04/08/2022
 
-### Python training
-1. Coursera/University of Michigan: Python for Everybody - Begin 05/13/2022
-2. Coursera/Google: Crash Course on Python
+### Johns Hopkins University's Data Science: Foundations Using R Specialization
+1. <s>The Data Scientist's Toolbox - Weeks Complete: 4/4</s> (Start 05/11/22; Complete 05/12/22)
+2. R Programming - Weeks Complete: 1/4 (Start 05/14/22)
 
-### Tableau training
+
+## Python training
+1. Coursera/University of Michigan: Python for Everybody - Begin 05/13/2022
+2. Coursera/Google: Crash Course on Python - Begin
+
+### University of Michigan's Python for Everybody Specialization
+1. Programming for Everybody (Getting Started with Python) - Week 4/7 (Begin 05/13/2022)
+
+### Google Crash Course on Python
+Weeks Complete: 1/6 (Begin 05/13/2022)
+
+
+## Tableau training
 1. Google/Coursera
 
-### Regex Study
+
+## Google Analytics
+1. Google Analytics for Beginners - Complete 07/08/2021
+2. Advanced Google Analytics
+3. GA4
+
+## Regex Study
 (waiting)
 
 
-### Learning Log
+# Learning Log
 
 **Curent Data Skill Set**
 <p align="center">
