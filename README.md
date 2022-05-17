@@ -5,7 +5,7 @@ Wherein Alaxia logs things with which she is stuffing her brain.
 <p align="center">
     <img src="https://img.shields.io/badge/Subject-Learning%20Log-blue"></br>
     <img src='https://img.shields.io/static/v1?label=R&message=7/10&color=orange%20?style=for-the-badge&logo=R'>
-    <img src='https://img.shields.io/static/v1?label=Python&message=0/10&color=orange%20?style=for-the-badge&logo=python'>
+    <img src='https://img.shields.io/static/v1?label=Python&message=1/10&color=orange%20?style=for-the-badge&logo=python'>
     <img src='https://img.shields.io/static/v1?label=SQL&message=6/10&color=orange%20?style=for-the-badge&logo=MySQL'>
     <img src='https://img.shields.io/static/v1?label=Tableau&message=4/10&color=orange%20?style=for-the-badge&logo=Tableau'>
     <img src='https://img.shields.io/static/v1?label=GitHub&message=3/10&color=orange%20?style=for-the-badge&logo=GitHub'>
@@ -99,7 +99,7 @@ Weeks Complete: 1/6 (Begin 05/13/2022)
 **Curent Data Skill Set**
 <p align="center">
     <img src='https://img.shields.io/static/v1?label=R&message=7/10&color=orange%20?style=for-the-badge&logo=R'>
-    <img src='https://img.shields.io/static/v1?label=Python&message=0/10&color=orange%20?style=for-the-badge&logo=python'>
+    <img src='https://img.shields.io/static/v1?label=Python&message=1/10&color=orange%20?style=for-the-badge&logo=python'>
     <img src='https://img.shields.io/static/v1?label=SQL&message=6/10&color=orange%20?style=for-the-badge&logo=MySQL'>
     <img src='https://img.shields.io/static/v1?label=Tableau&message=4/10&color=orange%20?style=for-the-badge&logo=Tableau'>
     <img src='https://img.shields.io/static/v1?label=GitHub&message=3/10&color=orange%20?style=for-the-badge&logo=GitHub'>
