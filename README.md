@@ -632,3 +632,6 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 1. Begin SQL for Data Science Course 1, Week 2
 2. Complete Course 1, Week 2
 3. Begin Py4e Week 4
+
+**05/17/2022**
+1. Complete Py4e Week 4
