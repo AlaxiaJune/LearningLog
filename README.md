@@ -630,4 +630,4 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 
 **05/16/2022**
 1. Begin SQL for Data Science Course 1, Week 2
-2.
+2. Complete Course 1, Week 2
