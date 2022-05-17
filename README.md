@@ -41,7 +41,7 @@ Wherein Alaxia logs things with which she is stuffing her brain.
 
 ## Data Analytics 
 
-### Completed: Google Data Analytics Certificate Progress
+### Completed: Google Data Analytics Certificate
 1. <s>Foundations: Data, Data, Everywhere - Weeks Complete: 5/5</s> (Start 05/03/21; Complete 05/17/21)
 2. <s>Ask Questions to Make Data-Driven Decisions - Weeks Complete: 4/4</s> (Start 05/18/21; Complete 05/24/21)
 3. <s>Prepare Data for Exploration - Weeks Complete: 5/5</s> (Start 05/24/21; Complete 05/28/21)
