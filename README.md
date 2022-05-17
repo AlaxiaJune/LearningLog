@@ -72,13 +72,13 @@ Wherein Alaxia logs things with which she is stuffing her brain.
 
 ## Python training
 1. Coursera/University of Michigan: Python for Everybody - Begin 05/13/2022
-2. Coursera/Google: Crash Course on Python - Begin
+2. Google IT Automation with Python Professional Certificate - Begin 05/13/2022
 
 ### University of Michigan's Python for Everybody Specialization
 1. Programming for Everybody (Getting Started with Python) - Week 4/7 (Begin 05/13/2022)
 
-### Google Crash Course on Python
-Weeks Complete: 1/6 (Begin 05/13/2022)
+### Google IT Automation with Python Professional Certificate
+1. Crash Course on Python - Weeks Complete: 1/6 (Begin 05/13/2022)
 
 
 ## Tableau training
