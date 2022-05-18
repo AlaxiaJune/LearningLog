@@ -653,3 +653,7 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 
 **05/17/2022**
 1. Complete Py4e Week 4
+2. Reorganize Learning Log
+
+**05/18/2022*
+1. Begin Crash Course on Python Week 2
