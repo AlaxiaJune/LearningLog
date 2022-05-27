@@ -666,10 +666,13 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 2. Test SQL skills on Isograd
 
 **05/23/2022*
-1. JHU R Programming Week 2
+1. JHU R Programming Week 2 (Control Structures)
 
 **05/24/2022**
-1. JHU R Programming Week 2
+1. JHU R Programming Week 2 (Control Structures)
 
 **05/25/2022**
-1. JHU R Programming Week 2
+1. JHU R Programming Week 2 (Functions)
+
+**05/26/2022**
+1. JHU R Programming Week 2 (R Scoping)
