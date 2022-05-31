@@ -676,3 +676,9 @@ During the past four months, I experienced a breakthrough Covid infection, we al
 
 **05/26/2022**
 1. JHU R Programming Week 2 (R Scoping)
+
+**05/27/2022 - 05/30/2022**
+Holiday weekend!
+
+**05/31/2022**
+1. JHU R Programming Week 2
