@@ -683,3 +683,7 @@ Holiday weekend!
 **05/31/2022**
 1. JHU R Programming Week 2
 2. Week 2 Quiz - 100% :D
+
+**06/02/2022**
+1. JHU R Programming Week 2 Programming Assignment Quiz - 100%
+2. Begin Project Management Week 4
