@@ -697,4 +697,5 @@ Holiday weekend!
 
 **06/06/2022**
 1. Complete Project Management Week 4
-2. Complete Project
+2. Complete Project Management Course 1 - 100%
+3. Begin UCDavis SQL for Data Science Week 3
