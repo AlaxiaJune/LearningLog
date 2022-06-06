@@ -66,7 +66,7 @@ Wherein Alaxia logs things with which she is stuffing her brain.
 2. R-Ladies Sydney: RYouWithMe - Complete 04/08/2022
 
 ### Johns Hopkins University's Data Science: Foundations Using R Specialization
-1. <s>The Data Scientist's Toolbox - Weeks Complete: 4/4</s> (Start 05/11/22; Complete 05/12/22)
+1. <s>The Data Scientist's Toolbox - Weeks Complete: 4/4</s> (Start 05/11/2022; Complete 05/12/2022)
 2. R Programming - Weeks Complete: 1/4 (Start 05/14/22)
 
 
@@ -84,6 +84,13 @@ Wherein Alaxia logs things with which she is stuffing her brain.
 ## Tableau training
 1. Google/Coursera
 
+## Google Project Management Professional Certificate
+1. <s>Foundations of Project Management - Weeks Complete: 4/4</s> (Start 05/11/2022; Complete 06/06/2022)
+2. Project Initialization: Starting a Successful Project - Weeks Complete: 0/4 
+3. Project Planning: Putting It All Together
+4. Project Execution: Running the Project
+5. Agile Project Management
+6. Capstone: Applying Project Management in the Real World
 
 ## Google Analytics
 1. Google Analytics for Beginners - Complete 07/08/2021
@@ -689,3 +696,5 @@ Holiday weekend!
 2. Begin Project Management Week 4
 
 **06/06/2022**
+1. Complete Project Management Week 4
+2. Complete Project
