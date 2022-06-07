@@ -58,7 +58,7 @@ Wherein Alaxia logs things with which she is stuffing her brain.
 3. UC Davis SQL for Data Science - Begin 05/13/2022
 
 ### UC Davis SQL for Data Science Specialization
-1. SQL for Data Science - Week 1/4 (Start 05/13/2022)
+1. SQL for Data Science - Week 3/4 (Start 05/13/2022)
 
 
 ## R training
@@ -699,3 +699,4 @@ Holiday weekend!
 1. Complete Project Management Week 4
 2. Complete Project Management Course 1 - 100%
 3. Begin UCDavis SQL for Data Science Week 3
+4. Complete SQL for Data Science Week 3 - 100% Knowledge, 100% Coding
