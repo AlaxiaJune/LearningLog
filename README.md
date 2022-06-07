@@ -700,3 +700,7 @@ Holiday weekend!
 2. Complete Project Management Course 1 - 100%
 3. Begin UCDavis SQL for Data Science Week 3
 4. Complete SQL for Data Science Week 3 - 100% Knowledge, 100% Coding
+
+**06/07/2022**
+1. Begin Programming for Everybody Week 5
+2. Complete Programming for Everybody Week 5 - 100% Knowledge, 100% Coding
