@@ -706,3 +706,6 @@ Holiday weekend!
 2. Complete Programming for Everybody Week 5 - 100% Knowledge, 100% Coding
 3. Begin Programming for Everybody Week 6
 4. Complete Programming for Everybody Week 6 - 100% Knowledge, 100% Coding
+
+**06/08/2022*
+1. Begin Programming for Everybody Week 7
