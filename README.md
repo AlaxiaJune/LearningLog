@@ -75,7 +75,8 @@ Wherein Alaxia logs things with which she is stuffing her brain.
 2. Google IT Automation with Python Professional Certificate - Begin 05/13/2022
 
 ### University of Michigan's Python for Everybody Specialization
-1. Programming for Everybody (Getting Started with Python) - Week 6/7 (Begin 05/13/2022)
+1. Programming for Everybody (Getting Started with Python) - Week 7/7 (Begin 05/13/2022)
+2. Python Data Structures - Week 0/7
 
 ### Google IT Automation with Python Professional Certificate
 1. Crash Course on Python - Weeks Complete: 2/6 (Begin 05/13/2022)
@@ -707,5 +708,9 @@ Holiday weekend!
 3. Begin Programming for Everybody Week 6
 4. Complete Programming for Everybody Week 6 - 100% Knowledge, 100% Coding
 
-**06/08/2022*
+**06/08/2022**
 1. Begin Programming for Everybody Week 7
+
+**06/08/2022**
+1. Complete Programming for Everybody Week 7 - 100% Knowledge, 100% Coding
+2. Complete Programming for Everybody - 100%
