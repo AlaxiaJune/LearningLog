@@ -714,3 +714,4 @@ Holiday weekend!
 **06/08/2022**
 1. Complete Programming for Everybody Week 7 - 100% Knowledge, 100% Coding
 2. Complete Programming for Everybody - 100%
+3. Begin Crash Course on Python Week 3
