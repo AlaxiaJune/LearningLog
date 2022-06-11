@@ -79,7 +79,7 @@ Wherein Alaxia logs things with which she is stuffing her brain.
 2. Python Data Structures - Week 0/7
 
 ### Google IT Automation with Python Professional Certificate
-1. Crash Course on Python - Weeks Complete: 2/6 (Begin 05/13/2022)
+1. Crash Course on Python - Weeks Complete: 3/6 (Begin 05/13/2022)
 
 
 ## Tableau training
@@ -711,7 +711,10 @@ Holiday weekend!
 **06/08/2022**
 1. Begin Programming for Everybody Week 7
 
-**06/08/2022**
+**06/09/2022**
 1. Complete Programming for Everybody Week 7 - 100% Knowledge, 100% Coding
 2. Complete Programming for Everybody - 100%
 3. Begin Crash Course on Python Week 3
+
+**06/10/2022*
+4. Complete Crash Course on Python Week 4 - 100% 
