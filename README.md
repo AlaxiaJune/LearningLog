@@ -716,5 +716,21 @@ Holiday weekend!
 2. Complete Programming for Everybody - 100%
 3. Begin Crash Course on Python Week 3
 
-**06/10/2022*
+**06/10/2022**
 4. Complete Crash Course on Python Week 4 - 100% 
+
+**06/13/2022**
+1. Networking and personal research
+
+**06/14/2022**
+1. Begin JHU R Programming Week 3
+2. Tableau Review
+3. Interview prep
+
+**06/15/2022**
+1. Interview prep
+2. Tableau review
+
+**06/16/2022**
+1. Networking
+2. Begin UCDavis SQL for Data Science Week 4
