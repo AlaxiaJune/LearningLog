@@ -734,3 +734,4 @@ Holiday weekend!
 **06/16/2022**
 1. Networking
 2. Begin UCDavis SQL for Data Science Week 4
+3. Begin Microsoft Learn: Data Analytics 
