@@ -743,3 +743,4 @@ Holiday weekend!
 
 **06/27/2022**
 1. Continue SQL for Data Science Week 4
+2. Week 4 Knowledge Exam - 100%, Coding Exam - 100%
