@@ -745,6 +745,13 @@ Holiday weekend!
 1. Continue SQL for Data Science Week 4
 2. Week 4 Knowledge Exam - 100%, Coding Exam - 100%
 
-**06/28/2022*
+**06/28/2022**
 1. Complete Profile and Analysis of Yelp Dataset
 2. Complete SQL for Data Science Week 4/Course
+
+**07/05/2022**
+1. Begin University of Michigan Python Data Structures Week 1
+2. Begin Alteryx SparkEd
+
+**07/06/2022**
+1. Alteryx SparkEd
