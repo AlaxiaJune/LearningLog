@@ -755,3 +755,9 @@ Holiday weekend!
 
 **07/06/2022**
 1. Alteryx SparkEd
+
+**07/07/2022**
+1. Complete Alteryx SparkEd Getting Started
+
+**07/08/2022**
+1. Begin Project Managment Course 2: Project Initiation
