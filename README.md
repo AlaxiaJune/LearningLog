@@ -87,7 +87,7 @@ Wherein Alaxia logs things with which she is stuffing her brain.
 
 ## Google Project Management Professional Certificate
 1. <s>Foundations of Project Management - Weeks Complete: 4/4</s> (Start 05/11/2022; Complete 06/06/2022)
-2. Project Initialization: Starting a Successful Project - Weeks Complete: 0/4 
+2. Project Initialization: Starting a Successful Project - Weeks Complete: 1/4 (Start 07/08/2022)
 3. Project Planning: Putting It All Together
 4. Project Execution: Running the Project
 5. Agile Project Management
@@ -761,3 +761,6 @@ Holiday weekend!
 
 **07/08/2022**
 1. Begin Project Managment Course 2: Project Initiation
+
+**07/11/2022**
+1. Complete PM Course 2, Week 1 - 100%
