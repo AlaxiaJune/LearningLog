@@ -764,3 +764,15 @@ Holiday weekend!
 
 **07/11/2022**
 1. Complete PM Course 2, Week 1 - 100%
+
+**07/12/2022**
+1. Project Management Course 2, Week 1
+
+**07/13/2022**
+1. Project Management Course 2, Week 1
+
+**07/14/2022**
+1. Excel practice: Excel Skills for Business: Essentials - Macquarie University, Week 1
+
+**07/15/2022**
+1. Excel practice: Excel Skills for Business: Essentials - Macquarie University, Weeks 2-4
