@@ -775,7 +775,9 @@ Holiday weekend!
 1. Excel practice: Excel Skills for Business: Essentials - Macquarie University, Week 1
 
 **07/15/2022**
-1. Excel practice: Excel Skills for Business: Essentials - Macquarie University, Weeks 2-4
+1. Excel practice: Excel Skills for Business: Essentials - Macquarie University, Weeks 2 & 3 - 100%
+2. Begin Week 4
 
 **07/16/2022**
-1. Excel Skills for Business: Essentials - Macquarie University, Weeks 4
+1. Excel Skills for Business: Essentials - Macquarie University, Week 4 - 100%
+2. Week 5 - 100%
