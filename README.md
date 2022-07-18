@@ -10,6 +10,7 @@ Wherein Alaxia logs things with which she is stuffing her brain.
     <img src='https://img.shields.io/static/v1?label=Tableau&message=4/10&color=orange%20?style=for-the-badge&logo=Tableau'>
     <img src='https://img.shields.io/static/v1?label=GitHub&message=3/10&color=orange%20?style=for-the-badge&logo=GitHub'>
     <img src='https://img.shields.io/static/v1?label=Google%20Sheets&message=8/10&color=orange%20?style=for-the-badge&logo=google%20sheets'>
+    <img src='https://img.shields.io/static/v1?label=Excel&message=8/10&color=orange%20?style=for-the-badge&logo=google%20sheets'>
     <img src='https://img.shields.io/static/v1?label=Google%20Analytics&message=5/10&color=orange%20?style=for-the-badge&logo=google%20analytics'>
     <img src='https://img.shields.io/static/v1?label=BigQuery&message=5/10&color=orange%20?style=for-the-badge&logo=BigQuery'>
     </p>
@@ -112,6 +113,7 @@ Wherein Alaxia logs things with which she is stuffing her brain.
     <img src='https://img.shields.io/static/v1?label=Tableau&message=4/10&color=orange%20?style=for-the-badge&logo=Tableau'>
     <img src='https://img.shields.io/static/v1?label=GitHub&message=3/10&color=orange%20?style=for-the-badge&logo=GitHub'>
     <img src='https://img.shields.io/static/v1?label=Google%20Sheets&message=8/10&color=orange%20?style=for-the-badge&logo=google%20sheets'>
+    <img src='https://img.shields.io/static/v1?label=Excel&message=8/10&color=orange%20?style=for-the-badge&logo=google%20sheets'>
     <img src='https://img.shields.io/static/v1?label=Google%20Analytics&message=5/10&color=orange%20?style=for-the-badge&logo=google%20analytics'>
      <img src='https://img.shields.io/static/v1?label=BigQuery&message=5/10&color=orange%20?style=for-the-badge&logo=BigQuery'>
     </p>
