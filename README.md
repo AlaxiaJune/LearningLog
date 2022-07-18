@@ -781,3 +781,7 @@ Holiday weekend!
 **07/16/2022**
 1. Excel Skills for Business: Essentials - Macquarie University, Week 4 - 100%
 2. Week 5 - 100%
+
+**07/17/2022**
+1. Complete Excel Skills for Business: Essentials
+2. Begin Excel Skills for Business: Intermediate I
