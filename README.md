@@ -787,3 +787,10 @@ Holiday weekend!
 **07/17/2022**
 1. Complete Excel Skills for Business: Essentials
 2. Begin Excel Skills for Business: Intermediate I
+
+**07/18/2022 - 07/22/2022**
+1. Weeks 1-5 Excel for Business: Intermediate I
+2. SQL practice on SQLBolt
+
+**07/23/2022**
+1. SQL practice on SQLBolt
