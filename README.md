@@ -794,3 +794,10 @@ Holiday weekend!
 
 **07/23/2022**
 1. SQL practice on SQLBolt
+
+**07/24/2022**
+1. Week 6 Excel for Business: Intermediate I
+
+**07/25/2022**
+1. Complete Excel for Business: Intermediate I
+2. Begin Excel for Business: Intermediate II
