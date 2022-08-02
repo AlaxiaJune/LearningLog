@@ -801,3 +801,6 @@ Holiday weekend!
 **07/25/2022**
 1. Complete Excel for Business: Intermediate I
 2. Begin Excel for Business: Intermediate II
+
+**08/01/2022**
+1. Project Management: Course 2, Week 2
