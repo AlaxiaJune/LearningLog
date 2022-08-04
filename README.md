@@ -804,3 +804,7 @@ Holiday weekend!
 
 **08/01/2022**
 1. Project Management: Course 2, Week 2
+
+**08/04/2022**
+1. Project Mgmt. continued
+2. SQLBolt
