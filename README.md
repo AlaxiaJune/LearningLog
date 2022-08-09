@@ -808,3 +808,9 @@ Holiday weekend!
 **08/04/2022**
 1. Project Mgmt. continued
 2. SQLBolt
+
+**08/08/2022**
+1. Excel Intermediate II, Week 1
+
+**08/09/2022**
+1. Complete Excel Intermediate II, Week 1 - 100%
