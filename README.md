@@ -814,3 +814,6 @@ Holiday weekend!
 
 **08/09/2022**
 1. Complete Excel Intermediate II, Week 1 - 100%
+
+**08/15/2022**
+1. Complete Excel Intermediate II, Week 2 - 100%
