@@ -59,7 +59,7 @@ Wherein Alaxia logs things with which she is stuffing her brain.
 3. UC Davis SQL for Data Science - Begin 05/13/2022
 
 ### UC Davis SQL for Data Science Specialization
-1. SQL for Data Science - Week 3/4 (Start 05/13/2022)
+1. SQL for Data Science - Complete 06/2022
 
 
 ## R training
@@ -824,3 +824,13 @@ Holiday weekend!
 
 **08/18/2022**
 1. Complete Excel Intermediate II, Week 5 - 100%
+
+**08/19/2022**
+1. Excel Intermediate II, Week 6
+
+**08/21/2022**
+1. SQLBolt
+
+**08/22/2022**
+1. Complete Excel Intermediate II, Week 6 - 100%
+2. Complete Excel Intermediate II - 100%
