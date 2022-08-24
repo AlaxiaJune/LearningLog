@@ -834,3 +834,6 @@ Holiday weekend!
 **08/22/2022**
 1. Complete Excel Intermediate II, Week 6 - 100%
 2. Complete Excel Intermediate II - 100%
+
+**08/24/2022**
+1. SQL practice on DataLemur
