@@ -837,3 +837,6 @@ Holiday weekend!
 
 **08/24/2022**
 1. SQL practice on DataLemur
+
+**08/29/2022**
+1. UC Davis: Data Wrangling, Analysis, and AB Testing
