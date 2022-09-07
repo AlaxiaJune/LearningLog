@@ -839,4 +839,7 @@ Holiday weekend!
 1. SQL practice on DataLemur
 
 **08/29/2022**
-1. UC Davis: Data Wrangling, Analysis, and AB Testing
+1. Begin UC Davis: Data Wrangling, Analysis, and AB Testing
+
+**09/07/2022**
+1. Begin Excel for Business Advanced, Week 1
