@@ -24,13 +24,11 @@ Wherein Alaxia logs things with which she is stuffing her brain.
 2. Learning correct Github usage... and possibly ignoring it.
 
 ### Professional Development Goals (Current)
-1. Johns Hopkins University/Coursera: Data Science: Foundations Using R Specialization
-2. Further SQL training
-3. Further R training
-4. Python training
-5. Tableau practice
-6. Familiarize Regex
-7. Complete Google Analytics Individual Qualification
+1. Meta Database Engineering Certificate
+2. Further SQL training (Dabbling in UC Davis)
+3. Python training (Dabbling in Google IT w/ Python, University of Michigan Python for Everybody)
+5. Google Project Management Certificate
+6. Complete Google Analytics Individual Qualification
 
 ### Professional Development Goals (Completed)
 1. Cousera / Google Data Analytics Certificate
@@ -40,7 +38,10 @@ Wherein Alaxia logs things with which she is stuffing her brain.
 
 # Current and Completed Professional Learning
 
-## Data Analytics 
+## All Things Data  
+
+### In Progress: Meta Database Engineering Certificate
+1. Introduction to Databases - Weeks Complete 0/5
 
 ### Completed: Google Data Analytics Certificate
 1. <s>Foundations: Data, Data, Everywhere - Weeks Complete: 5/5</s> (Start 05/03/21; Complete 05/17/21)
@@ -53,7 +54,7 @@ Wherein Alaxia logs things with which she is stuffing her brain.
 8. <s>Google Data Analytics Capstone: Complete a Case Study - Weeks Complete: 4/4 (Start 04/11/22; Complete 04/20/22)</s>
 
 
-## SQL training
+## Further SQL training
 1. https://www.w3schools.com/sql/default.asp - Complete 06/03/21 
 2. Google Data Analytics Courses 2 through 5 - Complete 06/28/21
 3. UC Davis SQL for Data Science - Begin 05/13/2022
