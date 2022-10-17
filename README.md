@@ -844,3 +844,6 @@ Holiday weekend!
 
 **09/07/2022**
 1. Begin Excel for Business Advanced, Week 1
+
+**10/17/2022**
+1. Begin Meta Intro to Databases, Week 1
